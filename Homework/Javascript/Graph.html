@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html>
+	<head>		
+	</head>
+
+<textarea id="rawdata" style="display: none;">
+#date,avgtemp
+19950101,   20
+19950102,   30
+19950103,   -5
+19950104,  -28
+19950105,  -39
+19950106,  -31
+19950107,  -21
+19950108,    0
+19950109,   45
+19950110,   50
+19950111,   24
+19950112,   30
+19950113,   30
+19950114,   61
+19950115,   76
+19950116,   48
+19950117,   45
+19950118,   66
+19950119,   53
+19950120,   83
+19950121,   61
+19950122,   72
+19950123,   65
+19950124,   63
+19950125,   52
+19950126,   77
+19950127,   27
+19950128,   88
+19950129,   79
+19950130,   31
+19950131,   35
+19950201,  101
+19950202,   49
+19950203,   57
+19950204,   80
+19950205,   66
+19950206,   94
+19950207,   88
+19950208,   43
+19950209,   14
+19950210,   21
+19950211,   88
+19950212,   89
+19950213,   86
+19950214,   84
+19950215,   96
+19950216,   84
+19950217,   73
+19950218,   57
+19950219,   84
+19950220,   89
+19950221,   74
+19950222,   58
+19950223,   50
+19950224,   36
+19950225,   39
+19950226,   29
+19950227,   43
+19950228,   99
+19950301,   88
+19950302,   38
+19950303,   35
+19950304,   18
+19950305,   24
+19950306,   42
+19950307,   45
+19950308,   48
+19950309,   53
+19950310,   67
+19950311,   81
+19950312,   75
+19950313,   75
+19950314,   35
+19950315,   48
+19950316,   51
+19950317,   80
+19950318,   79
+19950319,   61
+19950320,   49
+19950321,   42
+19950322,   33
+19950323,   72
+19950324,   90
+19950325,   78
+19950326,   89
+19950327,   40
+19950328,   11
+19950329,   33
+19950330,   47
+19950331,   78
+19950401,  113
+19950402,  117
+19950403,   92
+19950404,   83
+19950405,   78
+19950406,  102
+19950407,   96
+19950408,   61
+19950409,   60
+19950410,   82
+19950411,   99
+19950412,   96
+19950413,   89
+19950414,   89
+19950415,   70
+19950416,   72
+19950417,   84
+19950418,   69
+19950419,   44
+19950420,   39
+19950421,   72
+19950422,  113
+19950423,  106
+19950424,  170
+19950425,  168
+19950426,  142
+19950427,   86
+19950428,   76
+19950429,   95
+19950430,   97
+19950501,  125
+19950502,  154
+19950503,  161
+19950504,  173
+19950505,  174
+19950506,  164
+19950507,  174
+19950508,  125
+19950509,   95
+19950510,   99
+19950511,   79
+19950512,   84
+19950513,   90
+19950514,   79
+19950515,   91
+19950516,  107
+19950517,  100
+19950518,   76
+19950519,   74
+19950520,   97
+19950521,   92
+19950522,  112
+19950523,  157
+19950524,  170
+19950525,  161
+19950526,  165
+19950527,  164
+19950528,  175
+19950529,  159
+19950530,  149
+19950531,  150
+19950601,  130
+19950602,  126
+19950603,  145
+19950604,  139
+19950605,  140
+19950606,  128
+19950607,  116
+19950608,  109
+19950609,  103
+19950610,  115
+19950611,  119
+19950612,  116
+19950613,  130
+19950614,  116
+19950615,  106
+19950616,  109
+19950617,  130
+19950618,  150
+19950619,  167
+19950620,  195
+19950621,  158
+19950622,  131
+19950623,  145
+19950624,  159
+19950625,  187
+19950626,  195
+19950627,  225
+19950628,  232
+19950629,  198
+19950630,  205
+19950701,  173
+19950702,  189
+19950703,  138
+19950704,  149
+19950705,  164
+19950706,  180
+19950707,  182
+19950708,  213
+19950709,  228
+19950710,  256
+19950711,  246
+19950712,  214
+19950713,  228
+19950714,  212
+19950715,  194
+19950716,  183
+19950717,  180
+19950718,  178
+19950719,  203
+19950720,  223
+19950721,  235
+19950722,  170
+19950723,  163
+19950724,  189
+19950725,  198
+19950726,  233
+19950727,  196
+19950728,  202
+19950729,  219
+19950730,  242
+19950731,  256
+19950801,  256
+19950802,  239
+19950803,  224
+19950804,  190
+19950805,  199
+19950806,  207
+19950807,  177
+19950808,  183
+19950809,  190
+19950810,  214
+19950811,  235
+19950812,  229
+19950813,  195
+19950814,  170
+19950815,  174
+19950816,  193
+19950817,  216
+19950818,  231
+19950819,  239
+19950820,  218
+19950821,  207
+19950822,  225
+19950823,  222
+19950824,  197
+19950825,  190
+19950826,  172
+19950827,  145
+19950828,  140
+19950829,  137
+19950830,  145
+19950831,  146
+19950901,  158
+19950902,  158
+19950903,  143
+19950904,  140
+19950905,  147
+19950906,  145
+19950907,  162
+19950908,  159
+19950909,  166
+19950910,  172
+19950911,  161
+19950912,  148
+19950913,  142
+19950914,  142
+19950915,  145
+19950916,  146
+19950917,  150
+19950918,  172
+19950919,  162
+19950920,  132
+19950921,  132
+19950922,  147
+19950923,  142
+19950924,  135
+19950925,  135
+19950926,  134
+19950927,  117
+19950928,   83
+19950929,   98
+19950930,   93
+19951001,  119
+19951002,  127
+19951003,  152
+19951004,  174
+19951005,  138
+19951006,  137
+19951007,  160
+19951008,  168
+19951009,  161
+19951010,  153
+19951011,  161
+19951012,  154
+19951013,  140
+19951014,  140
+19951015,  154
+19951016,  136
+19951017,  141
+19951018,  135
+19951019,  130
+19951020,  112
+19951021,   74
+19951022,   61
+19951023,   95
+19951024,  143
+19951025,  133
+19951026,  126
+19951027,  141
+19951028,   76
+19951029,   63
+19951030,   56
+19951031,   71
+19951101,   89
+19951102,   82
+19951103,   77
+19951104,   17
+19951105,   -2
+19951106,   19
+19951107,   64
+19951108,   99
+19951109,  109
+19951110,   83
+19951111,  116
+19951112,  109
+19951113,   69
+19951114,  100
+19951115,   93
+19951116,   94
+19951117,   30
+19951118,   33
+19951119,   67
+19951120,   39
+19951121,   21
+19951122,   58
+19951123,   95
+19951124,   93
+19951125,   90
+19951126,   86
+19951127,   72
+19951128,   58
+19951129,   50
+19951130,   34
+19951201,   27
+19951202,   23
+19951203,   11
+19951204,   -5
+19951205,  -29
+19951206,  -41
+19951207,  -31
+19951208,  -24
+19951209,   -9
+19951210,  -20
+19951211,   -2
+19951212,   29
+19951213,    1
+19951214,    4
+19951215,   -7
+19951216,  -17
+19951217,  -16
+19951218,    3
+19951219,   16
+19951220,    6
+19951221,  -16
+19951222,   69
+19951223,   57
+19951224,   -9
+19951225,  -10
+19951226,   -6
+19951227,  -59
+19951228,  -79
+19951229,  -66
+19951230,  -55
+19951231,  -19
+</textarea>
+
+	<body>
+
+		<canvas id="graph" width="1024" height="576" style="border:1px solid #000000;"></canvas>
+
+		<script>
+			var rows = document.getElementById("rawdata").value.split("\n")
+			rows.shift();
+
+			// create arrays with dates and average temperatures
+			var dates = [];
+			var avgTemps = [];
+			for (var i = 0; i < rows.length; i++) {
+				var split_row = rows[i].split(",");
+
+				var dateStr = split_row[0];
+				var year = dateStr.slice(0,4);
+				var month = dateStr.slice(4,6) - 1;	
+				var day = dateStr.slice(6,8);
+				dates.push(new Date(year, month, day));
+
+				avgTemps.push(Number(split_row[1]));
+			};
+			dates.pop();
+			avgTemps.pop();
+
+
+			var canvas = document.getElementById('graph');
+			var ctx = canvas.getContext('2d');
+
+			var graphWidth = 896;
+			var graphHeight = 504;
+			var horPadding = (canvas.width - graphWidth) /2;
+			var verPadding = (canvas.height - graphHeight) /2;
+
+			function createTransform(domain, range){
+				// domain is a two-element array of the data bounds [domain_min, domain_max]
+				// range is a two-element array of the screen bounds [range_min, range_max]
+				// This gives you two equations to solve:
+				// range_min = alpha * domain_min + beta
+				// range_max = alpha * domain_max + beta
+		 		// Implement your solution here:
+		 		
+		 		var alpha = (range[1] - range[0]) / (domain[1] - domain[0]);
+				var beta = range[0] - alpha * domain[0];
+
+				return function(x){
+					return alpha * x + beta;
+				};
+			}
+
+
+			// create title
+			ctx.font="bold 24px Calibri";
+			ctx.textAlign = "center"
+			ctx.fillText("Average temperature in De Bilt (NL) in 1995", horPadding + graphWidth/2, verPadding);
+
+			// create x axis title
+			ctx.save();
+			ctx.translate(horPadding/2 - 5, verPadding + graphHeight/2);
+			ctx.rotate(-Math.PI/2);
+			ctx.font="bold 16px Calibri";
+			ctx.textAlign = "center";
+			ctx.fillText("Temperature (degrees Celsius)", 0, 0);
+			ctx.restore();
+
+			var transformTemp = createTransform([-100, 300], [verPadding + graphHeight, verPadding]);
+			var transformDate = createTransform([0, avgTemps.length], [horPadding, horPadding + graphWidth]);
+
+			// create graph axis
+			ctx.beginPath();
+			ctx.moveTo(horPadding, verPadding);
+			ctx.lineTo(horPadding, verPadding + graphHeight);;
+			ctx.stroke();
+			ctx.closePath();
+
+			// create graph axis
+			ctx.beginPath();
+			ctx.moveTo(horPadding, transformTemp(0));
+			ctx.lineTo(transformDate(avgTemps.length), transformTemp(0));
+			ctx.stroke();
+			ctx.closePath();
+
+			ctx.strokeStyle = 'rgb(0, 100, 255';
+
+			// create graph line
+			ctx.beginPath();
+			ctx.moveTo(transformDate(0), transformTemp(avgTemps[0]));
+			for (var i = 0; i < avgTemps.length; i++) {
+				ctx.lineTo(transformDate(i), transformTemp(avgTemps[i]));
+				ctx.stroke();
+			}
+			ctx.closePath();
+
+			ctx.strokeStyle = 'rgb(0, 0, 0';
+
+			// create y axis information
+			for (var i = -100; i < 301; i += 10) {
+				ctx.beginPath();
+				ctx.moveTo(horPadding, transformTemp(i));
+				ctx.lineTo(horPadding - 5, transformTemp(i));
+				ctx.stroke();
+				ctx.closePath();
+
+				ctx.font="12px Calibri";
+				ctx.textAlign = "right";
+				ctx.fillText(i/10, horPadding - 10, transformTemp(i));
+			}
+			
+			var transformDateMonths = createTransform([0, 12], [horPadding, horPadding + graphWidth]);
+
+			// create x axis information
+			for (var i = 0; i < 12; i++) {
+				ctx.beginPath();
+				ctx.moveTo(transformDateMonths(i), transformTemp(0));
+				ctx.lineTo(transformDateMonths(i), transformTemp(0) + 5);
+				ctx.stroke();
+
+				var month;
+				if (i == 0) month = "January";
+				else if (i == 1) month = "February";
+				else if (i == 2) month = "March";
+				else if (i == 3) month = "April";
+				else if (i == 4) month = "May";
+				else if (i == 5) month = "June";
+				else if (i == 6) month = "July";
+				else if (i == 7) month = "August";
+				else if (i == 8) month = "September";
+				else if (i == 9) month = "October";
+				else if (i == 10) month = "November";
+				else if (i == 11) month = "December";
+
+				ctx.save();
+				ctx.translate(transformDateMonths(i + 0.55), transformTemp(0) + 10);
+				ctx.rotate(-Math.PI/2);
+				ctx.font="12px Calibri";
+				ctx.textAlign = "right";
+				ctx.fillText(month, 0, 0);
+				ctx.restore();
+				ctx.closePath();
+			}
+
+		</script>
+	</body>
+<html>
