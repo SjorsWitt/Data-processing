@@ -1,0 +1,23 @@
+/* Sjors Witteveen	10808493 */
+
+/* continent color */
+.eu
+{
+	fill: green;
+}
+
+/* country colors */
+#nl
+{
+	fill: orange;
+}
+
+#be
+{
+	fill: red;
+}
+
+#fr
+{
+	fill: blue;
+}
