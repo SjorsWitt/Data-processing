@@ -256,14 +256,17 @@ var country_codes = [
     ["zm", "ZMB", "Zambia"],
     ["zw", "ZWE", "Zimbabwe"] ];
 
-var range = [0, 1000000, 5000000, 10000000, 25000000, 50000000, 75000000];
+// bounds and color scheme for each category in amount of people
+var bounds = [0, 1000000, 5000000, 10000000, 25000000, 50000000, 75000000];
 var colorScheme = ["#000000", "#fee5d9", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#99000d"];
 
 window.onload = function() {
 	var obj = JSON.parse(document.getElementById("data").value);
 
+	// change color of every country depending on population
 	for (var i = 0; i < obj.points.length; i++) {
 
+		// find country code from country name
 		var name = obj.points[i].country;
 		var code = "Not Found";
 		for (var j = 0; j < country_codes.length; j++) {
@@ -274,23 +277,22 @@ window.onload = function() {
 		};
 
 		var population = Number(obj.points[i].population.replace(/,/g, ""));
-		//console.log(name + " : " + code + " : " + population);
 
-		if (population === range[0]) {
+		if (population === bounds[0]) {
 			changeColor(code, colorScheme[0]);
-		} else if (range[0] < population && population < range[1]) {
+		} else if (bounds[0] < population && population < bounds[1]) {
 			changeColor(code, colorScheme[1]);
-		} else if (range[1] <= population && population <= range[2]) {
+		} else if (bounds[1] <= population && population <= bounds[2]) {
 			changeColor(code, colorScheme[2]);
-		} else if (range[2] <= population && population <= range[3]) {
+		} else if (bounds[2] <= population && population <= bounds[3]) {
 			changeColor(code, colorScheme[3]);
-		} else if (range[3] <= population && population <= range[4]) {
+		} else if (bounds[3] <= population && population <= bounds[4]) {
 			changeColor(code, colorScheme[4]);
-		} else if (range[4] <= population && population <= range[5]) {
+		} else if (bounds[4] <= population && population <= bounds[5]) {
 			changeColor(code, colorScheme[5]);
-		} else if (range[5] <= population && population <= range[6]) {
+		} else if (bounds[5] <= population && population <= bounds[6]) {
 			changeColor(code, colorScheme[6]);
-		} else if (range[6] <= population) {
+		} else if (bounds[6] <= population) {
 			changeColor(code, colorScheme[7]);
 		};
 	};
