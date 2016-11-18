@@ -1,0 +1,224 @@
+{
+    "points": [
+        {
+            "country": "Albania", 
+            "population": "3,020,209"
+        }, 
+        {
+            "country": "Andorra", 
+            "population": "85,082"
+        }, 
+        {
+            "country": "Austria", 
+            "population": "8,504,850"
+        }, 
+        {
+            "country": "Azerbaijan", 
+            "population": ""
+        }, 
+        {
+            "country": "Belarus", 
+            "population": "9,475,100"
+        }, 
+        {
+            "country": "Belgium", 
+            "population": "11,198,638"
+        }, 
+        {
+            "country": "Bosnia and Herzegovina", 
+            "population": "3,871,643"
+        }, 
+        {
+            "country": "Bulgaria", 
+            "population": "7,364,570"
+        }, 
+        {
+            "country": "Croatia", 
+            "population": "4,284,889"
+        }, 
+        {
+            "country": "Czech Republic", 
+            "population": "10,513,209"
+        }, 
+        {
+            "country": "Denmark", 
+            "population": "5,655,750"
+        }, 
+        {
+            "country": "Estonia", 
+            "population": "1,315,819"
+        }, 
+        {
+            "country": "Faroe Islands", 
+            "population": "49,709"
+        }, 
+        {
+            "country": "Finland", 
+            "population": "5,470,820"
+        }, 
+        {
+            "country": "France", 
+            "population": "66,030,000"
+        }, 
+        {
+            "country": "Georgia", 
+            "population": "3,729,000"
+        }, 
+        {
+            "country": "Germany", 
+            "population": "80,716,000"
+        }, 
+        {
+            "country": "Gibraltar", 
+            "population": "30,001"
+        }, 
+        {
+            "country": "Greece", 
+            "population": "10,816,286"
+        }, 
+        {
+            "country": "Guernsey", 
+            "population": "65,345"
+        }, 
+        {
+            "country": "Hungary", 
+            "population": "9,877,365"
+        }, 
+        {
+            "country": "Iceland", 
+            "population": "325,671"
+        }, 
+        {
+            "country": "Ireland", 
+            "population": "4,609,600"
+        }, 
+        {
+            "country": "Isle of Man", 
+            "population": "84,497"
+        }, 
+        {
+            "country": "Italy", 
+            "population": "60,782,668"
+        }, 
+        {
+            "country": "Jersey", 
+            "population": "97,857"
+        }, 
+        {
+            "country": "Kosovo", 
+            "population": "1,859,203"
+        }, 
+        {
+            "country": "Latvia", 
+            "population": "1,990,300"
+        }, 
+        {
+            "country": "Liechtenstein", 
+            "population": "37,132"
+        }, 
+        {
+            "country": "Lithuania", 
+            "population": "2,944,459"
+        }, 
+        {
+            "country": "Luxembourg", 
+            "population": "549,680"
+        }, 
+        {
+            "country": "Macedonia", 
+            "population": "2,058,539"
+        }, 
+        {
+            "country": "Malta", 
+            "population": "446,547"
+        }, 
+        {
+            "country": "Moldova", 
+            "population": ""
+        }, 
+        {
+            "country": "Monaco", 
+            "population": "36,371"
+        }, 
+        {
+            "country": "Montenegro", 
+            "population": "647,905"
+        }, 
+        {
+            "country": "Netherlands", 
+            "population": "16,856,620"
+        }, 
+        {
+            "country": "Norway", 
+            "population": "5,136,700"
+        }, 
+        {
+            "country": "Poland", 
+            "population": "38,483,957"
+        }, 
+        {
+            "country": "Portugal", 
+            "population": "10,427,301"
+        }, 
+        {
+            "country": "Romania", 
+            "population": "19,942,642"
+        }, 
+        {
+            "country": "Russia", 
+            "population": "143,700,000"
+        }, 
+        {
+            "country": "San Marino", 
+            "population": "32,576"
+        }, 
+        {
+            "country": "Serbia", 
+            "population": "7,209,764"
+        }, 
+        {
+            "country": "Slovakia", 
+            "population": "5,415,949"
+        }, 
+        {
+            "country": "Slovenia", 
+            "population": "2,061,085"
+        }, 
+        {
+            "country": "Spain", 
+            "population": "46,704,314"
+        }, 
+        {
+            "country": "Svalbard and Jan<br />\nMayen Islands", 
+            "population": "2,868"
+        }, 
+        {
+            "country": "Sweden", 
+            "population": "9,716,962"
+        }, 
+        {
+            "country": "Switzerland", 
+            "population": "8,183,800"
+        }, 
+        {
+            "country": "Transnistria", 
+            "population": "505,000"
+        }, 
+        {
+            "country": "Turkey", 
+            "population": "76,667,864"
+        }, 
+        {
+            "country": "Ukraine", 
+            "population": ""
+        }, 
+        {
+            "country": "United Kingdom", 
+            "population": "64,100,000"
+        }, 
+        {
+            "country": "Vatican City", 
+            "population": "842"
+        }
+    ]
+}
