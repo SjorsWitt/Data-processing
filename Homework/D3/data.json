@@ -1,0 +1,52 @@
+{
+    "points": [
+        {
+            "RAINFALLSUM": "1157", 
+            "MONTH": "JAN"
+        }, 
+        {
+            "RAINFALLSUM": "607", 
+            "MONTH": "FEB"
+        }, 
+        {
+            "RAINFALLSUM": "597", 
+            "MONTH": "MAR"
+        }, 
+        {
+            "RAINFALLSUM": "209", 
+            "MONTH": "APR"
+        }, 
+        {
+            "RAINFALLSUM": "463", 
+            "MONTH": "MAY"
+        }, 
+        {
+            "RAINFALLSUM": "328", 
+            "MONTH": "JUN"
+        }, 
+        {
+            "RAINFALLSUM": "916", 
+            "MONTH": "JUL"
+        }, 
+        {
+            "RAINFALLSUM": "1143", 
+            "MONTH": "AUG"
+        }, 
+        {
+            "RAINFALLSUM": "885", 
+            "MONTH": "SEP"
+        }, 
+        {
+            "RAINFALLSUM": "327", 
+            "MONTH": "OCT"
+        }, 
+        {
+            "RAINFALLSUM": "1482", 
+            "MONTH": "NOV"
+        }, 
+        {
+            "RAINFALLSUM": "419", 
+            "MONTH": "DEC"
+        }
+    ]
+}
