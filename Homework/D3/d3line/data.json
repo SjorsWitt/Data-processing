@@ -1,0 +1,424 @@
+{
+    "points": [
+        {
+            "Average": "76", 
+            "Minimum": "41", 
+            "City code": "270", 
+            "YYYYMMDD": "20151101", 
+            "Maximum": "104"
+        }, 
+        {
+            "Average": "72", 
+            "Minimum": "58", 
+            "City code": "270", 
+            "YYYYMMDD": "20151102", 
+            "Maximum": "91"
+        }, 
+        {
+            "Average": "91", 
+            "Minimum": "41", 
+            "City code": "270", 
+            "YYYYMMDD": "20151103", 
+            "Maximum": "144"
+        }, 
+        {
+            "Average": "115", 
+            "Minimum": "81", 
+            "City code": "270", 
+            "YYYYMMDD": "20151104", 
+            "Maximum": "139"
+        }, 
+        {
+            "Average": "128", 
+            "Minimum": "114", 
+            "City code": "270", 
+            "YYYYMMDD": "20151105", 
+            "Maximum": "139"
+        }, 
+        {
+            "Average": "142", 
+            "Minimum": "135", 
+            "City code": "270", 
+            "YYYYMMDD": "20151106", 
+            "Maximum": "156"
+        }, 
+        {
+            "Average": "148", 
+            "Minimum": "116", 
+            "City code": "270", 
+            "YYYYMMDD": "20151107", 
+            "Maximum": "171"
+        }, 
+        {
+            "Average": "121", 
+            "Minimum": "74", 
+            "City code": "270", 
+            "YYYYMMDD": "20151108", 
+            "Maximum": "153"
+        }, 
+        {
+            "Average": "124", 
+            "Minimum": "99", 
+            "City code": "270", 
+            "YYYYMMDD": "20151109", 
+            "Maximum": "151"
+        }, 
+        {
+            "Average": "146", 
+            "Minimum": "140", 
+            "City code": "270", 
+            "YYYYMMDD": "20151110", 
+            "Maximum": "155"
+        }, 
+        {
+            "Average": "134", 
+            "Minimum": "126", 
+            "City code": "270", 
+            "YYYYMMDD": "20151111", 
+            "Maximum": "141"
+        }, 
+        {
+            "Average": "123", 
+            "Minimum": "106", 
+            "City code": "270", 
+            "YYYYMMDD": "20151112", 
+            "Maximum": "145"
+        }, 
+        {
+            "Average": "107", 
+            "Minimum": "51", 
+            "City code": "270", 
+            "YYYYMMDD": "20151113", 
+            "Maximum": "131"
+        }, 
+        {
+            "Average": "91", 
+            "Minimum": "60", 
+            "City code": "270", 
+            "YYYYMMDD": "20151114", 
+            "Maximum": "121"
+        }, 
+        {
+            "Average": "135", 
+            "Minimum": "120", 
+            "City code": "270", 
+            "YYYYMMDD": "20151115", 
+            "Maximum": "144"
+        }, 
+        {
+            "Average": "117", 
+            "Minimum": "91", 
+            "City code": "270", 
+            "YYYYMMDD": "20151116", 
+            "Maximum": "136"
+        }, 
+        {
+            "Average": "119", 
+            "Minimum": "94", 
+            "City code": "270", 
+            "YYYYMMDD": "20151117", 
+            "Maximum": "148"
+        }, 
+        {
+            "Average": "118", 
+            "Minimum": "98", 
+            "City code": "270", 
+            "YYYYMMDD": "20151118", 
+            "Maximum": "130"
+        }, 
+        {
+            "Average": "107", 
+            "Minimum": "80", 
+            "City code": "270", 
+            "YYYYMMDD": "20151119", 
+            "Maximum": "124"
+        }, 
+        {
+            "Average": "75", 
+            "Minimum": "44", 
+            "City code": "270", 
+            "YYYYMMDD": "20151120", 
+            "Maximum": "101"
+        }, 
+        {
+            "Average": "42", 
+            "Minimum": "18", 
+            "City code": "270", 
+            "YYYYMMDD": "20151121", 
+            "Maximum": "72"
+        }, 
+        {
+            "Average": "39", 
+            "Minimum": "11", 
+            "City code": "270", 
+            "YYYYMMDD": "20151122", 
+            "Maximum": "65"
+        }, 
+        {
+            "Average": "37", 
+            "Minimum": "-11", 
+            "City code": "270", 
+            "YYYYMMDD": "20151123", 
+            "Maximum": "65"
+        }, 
+        {
+            "Average": "49", 
+            "Minimum": "38", 
+            "City code": "270", 
+            "YYYYMMDD": "20151124", 
+            "Maximum": "60"
+        }, 
+        {
+            "Average": "61", 
+            "Minimum": "45", 
+            "City code": "270", 
+            "YYYYMMDD": "20151125", 
+            "Maximum": "83"
+        }, 
+        {
+            "Average": "50", 
+            "Minimum": "22", 
+            "City code": "270", 
+            "YYYYMMDD": "20151126", 
+            "Maximum": "94"
+        }, 
+        {
+            "Average": "60", 
+            "Minimum": "44", 
+            "City code": "270", 
+            "YYYYMMDD": "20151127", 
+            "Maximum": "68"
+        }, 
+        {
+            "Average": "66", 
+            "Minimum": "53", 
+            "City code": "270", 
+            "YYYYMMDD": "20151128", 
+            "Maximum": "91"
+        }, 
+        {
+            "Average": "93", 
+            "Minimum": "66", 
+            "City code": "270", 
+            "YYYYMMDD": "20151129", 
+            "Maximum": "115"
+        }, 
+        {
+            "Average": "77", 
+            "Minimum": "53", 
+            "City code": "270", 
+            "YYYYMMDD": "20151130", 
+            "Maximum": "113"
+        }, 
+        {
+            "Average": "91", 
+            "Minimum": "28", 
+            "City code": "380", 
+            "YYYYMMDD": "20151101", 
+            "Maximum": "173"
+        }, 
+        {
+            "Average": "79", 
+            "Minimum": "16", 
+            "City code": "380", 
+            "YYYYMMDD": "20151102", 
+            "Maximum": "150"
+        }, 
+        {
+            "Average": "110", 
+            "Minimum": "21", 
+            "City code": "380", 
+            "YYYYMMDD": "20151103", 
+            "Maximum": "209"
+        }, 
+        {
+            "Average": "137", 
+            "Minimum": "108", 
+            "City code": "380", 
+            "YYYYMMDD": "20151104", 
+            "Maximum": "175"
+        }, 
+        {
+            "Average": "143", 
+            "Minimum": "108", 
+            "City code": "380", 
+            "YYYYMMDD": "20151105", 
+            "Maximum": "175"
+        }, 
+        {
+            "Average": "155", 
+            "Minimum": "138", 
+            "City code": "380", 
+            "YYYYMMDD": "20151106", 
+            "Maximum": "171"
+        }, 
+        {
+            "Average": "171", 
+            "Minimum": "140", 
+            "City code": "380", 
+            "YYYYMMDD": "20151107", 
+            "Maximum": "188"
+        }, 
+        {
+            "Average": "149", 
+            "Minimum": "97", 
+            "City code": "380", 
+            "YYYYMMDD": "20151108", 
+            "Maximum": "184"
+        }, 
+        {
+            "Average": "142", 
+            "Minimum": "122", 
+            "City code": "380", 
+            "YYYYMMDD": "20151109", 
+            "Maximum": "173"
+        }, 
+        {
+            "Average": "127", 
+            "Minimum": "121", 
+            "City code": "380", 
+            "YYYYMMDD": "20151110", 
+            "Maximum": "137"
+        }, 
+        {
+            "Average": "116", 
+            "Minimum": "106", 
+            "City code": "380", 
+            "YYYYMMDD": "20151111", 
+            "Maximum": "125"
+        }, 
+        {
+            "Average": "128", 
+            "Minimum": "108", 
+            "City code": "380", 
+            "YYYYMMDD": "20151112", 
+            "Maximum": "153"
+        }, 
+        {
+            "Average": "112", 
+            "Minimum": "68", 
+            "City code": "380", 
+            "YYYYMMDD": "20151113", 
+            "Maximum": "134"
+        }, 
+        {
+            "Average": "85", 
+            "Minimum": "63", 
+            "City code": "380", 
+            "YYYYMMDD": "20151114", 
+            "Maximum": "101"
+        }, 
+        {
+            "Average": "131", 
+            "Minimum": "101", 
+            "City code": "380", 
+            "YYYYMMDD": "20151115", 
+            "Maximum": "151"
+        }, 
+        {
+            "Average": "117", 
+            "Minimum": "109", 
+            "City code": "380", 
+            "YYYYMMDD": "20151116", 
+            "Maximum": "126"
+        }, 
+        {
+            "Average": "140", 
+            "Minimum": "118", 
+            "City code": "380", 
+            "YYYYMMDD": "20151117", 
+            "Maximum": "156"
+        }, 
+        {
+            "Average": "129", 
+            "Minimum": "112", 
+            "City code": "380", 
+            "YYYYMMDD": "20151118", 
+            "Maximum": "142"
+        }, 
+        {
+            "Average": "105", 
+            "Minimum": "74", 
+            "City code": "380", 
+            "YYYYMMDD": "20151119", 
+            "Maximum": "130"
+        }, 
+        {
+            "Average": "74", 
+            "Minimum": "47", 
+            "City code": "380", 
+            "YYYYMMDD": "20151120", 
+            "Maximum": "96"
+        }, 
+        {
+            "Average": "32", 
+            "Minimum": "17", 
+            "City code": "380", 
+            "YYYYMMDD": "20151121", 
+            "Maximum": "50"
+        }, 
+        {
+            "Average": "20", 
+            "Minimum": "1", 
+            "City code": "380", 
+            "YYYYMMDD": "20151122", 
+            "Maximum": "49"
+        }, 
+        {
+            "Average": "16", 
+            "Minimum": "-10", 
+            "City code": "380", 
+            "YYYYMMDD": "20151123", 
+            "Maximum": "55"
+        }, 
+        {
+            "Average": "21", 
+            "Minimum": "6", 
+            "City code": "380", 
+            "YYYYMMDD": "20151124", 
+            "Maximum": "33"
+        }, 
+        {
+            "Average": "52", 
+            "Minimum": "33", 
+            "City code": "380", 
+            "YYYYMMDD": "20151125", 
+            "Maximum": "75"
+        }, 
+        {
+            "Average": "35", 
+            "Minimum": "5", 
+            "City code": "380", 
+            "YYYYMMDD": "20151126", 
+            "Maximum": "81"
+        }, 
+        {
+            "Average": "35", 
+            "Minimum": "1", 
+            "City code": "380", 
+            "YYYYMMDD": "20151127", 
+            "Maximum": "72"
+        }, 
+        {
+            "Average": "57", 
+            "Minimum": "34", 
+            "City code": "380", 
+            "YYYYMMDD": "20151128", 
+            "Maximum": "73"
+        }, 
+        {
+            "Average": "94", 
+            "Minimum": "62", 
+            "City code": "380", 
+            "YYYYMMDD": "20151129", 
+            "Maximum": "110"
+        }, 
+        {
+            "Average": "96", 
+            "Minimum": "76", 
+            "City code": "380", 
+            "YYYYMMDD": "20151130", 
+            "Maximum": "113"
+        }
+    ]
+}
