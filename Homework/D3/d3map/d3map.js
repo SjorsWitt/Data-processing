@@ -5,12 +5,13 @@ window.onload = function() {
 
     d3.json("data.json", function(rawdata) {
 
-        // adapt rawdata to fit datamap expectation
+        // Adapt rawdata to fit datamap expectation
         dataset = {}
         rawdata.points.forEach(function(item){
 
             var population = item.Population;
 
+            // Set the right fillKey according to population 
             var key = "UNKNOWN";
             if (population <= 5000000) {
                 key = "< 5m";
@@ -32,6 +33,7 @@ window.onload = function() {
                 key = "> 1000m";
             };
 
+            // Set item properties to dataset items
             dataset[item['Country Code']] = {
                 numberOfThings: item['Population'],
                 name: item['Country Name'],
@@ -73,7 +75,6 @@ window.onload = function() {
                 highlightBorderWidth: 2,
                 highlightBorderColor: 'teal',
 
-                // show desired information in tooltip
                 popupTemplate: function(geo, data) {
                     // Show name and Unknown population in tooltip for countries with no data
                     if (!data) { 
