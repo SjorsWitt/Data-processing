@@ -1,0 +1,53 @@
+/* Name: Sjors Witteveen
+ * Student number: 10808493 */
+
+h1 {
+    text-align: center;
+    font-family: arial;
+    margin: 0px;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.text_block {
+    border: 2px solid;
+    padding: 0;
+    margin: 15px;
+}
+
+.text_block p {
+    font-family: arial;
+    text-align: center;
+}
+
+.datamaps-legend {
+    bottom: 0px;
+    padding-bottom: 0px !important;
+}
+
+.datamaps-legend dl {
+    margin: 0 !important;
+}
+
+.datamaps-legend dt, .datamaps-legend dd {
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    margin: 0 !important;
+}
+
+.datamaps-legend dt {
+    border-left: 2px solid;
+    margin-left: 10px !important;
+}
+
+.datamaps-legend dd {
+    border-right: 2px solid;
+}

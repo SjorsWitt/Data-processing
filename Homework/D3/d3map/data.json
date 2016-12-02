@@ -1,0 +1,1516 @@
+{
+    "points": [
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Afghanistan", 
+            "Population": "32526562", 
+            "Country Code": "AFG", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Albania", 
+            "Population": "2889167", 
+            "Country Code": "ALB", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Algeria", 
+            "Population": "39666519", 
+            "Country Code": "DZA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "American Samoa", 
+            "Population": "55538", 
+            "Country Code": "ASM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Andorra", 
+            "Population": "70473", 
+            "Country Code": "ADO", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Angola", 
+            "Population": "25021974", 
+            "Country Code": "AGO", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Antigua and Barbuda", 
+            "Population": "91818", 
+            "Country Code": "ATG", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Argentina", 
+            "Population": "43416755", 
+            "Country Code": "ARG", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Armenia", 
+            "Population": "3017712", 
+            "Country Code": "ARM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Aruba", 
+            "Population": "103889", 
+            "Country Code": "ABW", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Australia", 
+            "Population": "23781169", 
+            "Country Code": "AUS", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Austria", 
+            "Population": "8611088", 
+            "Country Code": "AUT", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Azerbaijan", 
+            "Population": "9651349", 
+            "Country Code": "AZE", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Bahamas, The", 
+            "Population": "388019", 
+            "Country Code": "BHS", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Bahrain", 
+            "Population": "1377237", 
+            "Country Code": "BHR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Bangladesh", 
+            "Population": "160995642", 
+            "Country Code": "BGD", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Barbados", 
+            "Population": "284215", 
+            "Country Code": "BRB", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Belarus", 
+            "Population": "9513000", 
+            "Country Code": "BLR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Belgium", 
+            "Population": "11285721", 
+            "Country Code": "BEL", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Belize", 
+            "Population": "359287", 
+            "Country Code": "BLZ", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Benin", 
+            "Population": "10879829", 
+            "Country Code": "BEN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Bermuda", 
+            "Population": "65235", 
+            "Country Code": "BMU", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Bhutan", 
+            "Population": "774830", 
+            "Country Code": "BTN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Bolivia", 
+            "Population": "10724705", 
+            "Country Code": "BOL", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Bosnia and Herzegovina", 
+            "Population": "3810416", 
+            "Country Code": "BIH", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Botswana", 
+            "Population": "2262485", 
+            "Country Code": "BWA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Brazil", 
+            "Population": "207847528", 
+            "Country Code": "BRA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "British Virgin Islands", 
+            "Population": "30117", 
+            "Country Code": "VGB", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Brunei Darussalam", 
+            "Population": "423188", 
+            "Country Code": "BRN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Bulgaria", 
+            "Population": "7177991", 
+            "Country Code": "BGR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Burkina Faso", 
+            "Population": "18105570", 
+            "Country Code": "BFA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Burundi", 
+            "Population": "11178921", 
+            "Country Code": "BDI", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Cabo Verde", 
+            "Population": "520502", 
+            "Country Code": "CPV", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Cambodia", 
+            "Population": "15577899", 
+            "Country Code": "KHM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Cameroon", 
+            "Population": "23344179", 
+            "Country Code": "CMR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Canada", 
+            "Population": "35851774", 
+            "Country Code": "CAN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Cayman Islands", 
+            "Population": "59967", 
+            "Country Code": "CYM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Central African Republic", 
+            "Population": "4900274", 
+            "Country Code": "CAF", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Chad", 
+            "Population": "14037472", 
+            "Country Code": "TCD", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Channel Islands", 
+            "Population": "163692", 
+            "Country Code": "CHI", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Chile", 
+            "Population": "17948141", 
+            "Country Code": "CHL", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "China", 
+            "Population": "1371220000", 
+            "Country Code": "CHN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Colombia", 
+            "Population": "48228704", 
+            "Country Code": "COL", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Comoros", 
+            "Population": "788474", 
+            "Country Code": "COM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Congo, Dem. Rep.", 
+            "Population": "77266814", 
+            "Country Code": "COD", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Congo, Rep.", 
+            "Population": "4620330", 
+            "Country Code": "COG", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Costa Rica", 
+            "Population": "4807850", 
+            "Country Code": "CRI", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Cote d'Ivoire", 
+            "Population": "22701556", 
+            "Country Code": "CIV", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Croatia", 
+            "Population": "4224404", 
+            "Country Code": "HRV", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Cuba", 
+            "Population": "11389562", 
+            "Country Code": "CUB", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Curacao", 
+            "Population": "158040", 
+            "Country Code": "CUW", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Cyprus", 
+            "Population": "1165300", 
+            "Country Code": "CYP", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Czech Republic", 
+            "Population": "10551219", 
+            "Country Code": "CZE", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Denmark", 
+            "Population": "5676002", 
+            "Country Code": "DNK", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Djibouti", 
+            "Population": "887861", 
+            "Country Code": "DJI", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Dominica", 
+            "Population": "72680", 
+            "Country Code": "DMA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Dominican Republic", 
+            "Population": "10528391", 
+            "Country Code": "DOM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Ecuador", 
+            "Population": "16144363", 
+            "Country Code": "ECU", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Egypt, Arab Rep.", 
+            "Population": "91508084", 
+            "Country Code": "EGY", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "El Salvador", 
+            "Population": "6126583", 
+            "Country Code": "SLV", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Equatorial Guinea", 
+            "Population": "845060", 
+            "Country Code": "GNQ", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Estonia", 
+            "Population": "1311998", 
+            "Country Code": "EST", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Ethiopia", 
+            "Population": "99390750", 
+            "Country Code": "ETH", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Faroe Islands", 
+            "Population": "48199", 
+            "Country Code": "FRO", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Fiji", 
+            "Population": "892145", 
+            "Country Code": "FJI", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Finland", 
+            "Population": "5482013", 
+            "Country Code": "FIN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "France", 
+            "Population": "66808385", 
+            "Country Code": "FRA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "French Polynesia", 
+            "Population": "282764", 
+            "Country Code": "PYF", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Gabon", 
+            "Population": "1725292", 
+            "Country Code": "GAB", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Gambia, The", 
+            "Population": "1990924", 
+            "Country Code": "GMB", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Georgia", 
+            "Population": "3679000", 
+            "Country Code": "GEO", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Germany", 
+            "Population": "81413145", 
+            "Country Code": "DEU", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Ghana", 
+            "Population": "27409893", 
+            "Country Code": "GHA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Gibraltar", 
+            "Population": "32217", 
+            "Country Code": "GIB", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Greece", 
+            "Population": "10823732", 
+            "Country Code": "GRC", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Greenland", 
+            "Population": "56114", 
+            "Country Code": "GRL", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Grenada", 
+            "Population": "106825", 
+            "Country Code": "GRD", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Guam", 
+            "Population": "169885", 
+            "Country Code": "GUM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Guatemala", 
+            "Population": "16342897", 
+            "Country Code": "GTM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Guinea", 
+            "Population": "12608590", 
+            "Country Code": "GIN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Guinea-Bissau", 
+            "Population": "1844325", 
+            "Country Code": "GNB", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Guyana", 
+            "Population": "767085", 
+            "Country Code": "GUY", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Haiti", 
+            "Population": "10711067", 
+            "Country Code": "HTI", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Honduras", 
+            "Population": "8075060", 
+            "Country Code": "HND", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Hong Kong SAR, China", 
+            "Population": "7305700", 
+            "Country Code": "HKG", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Hungary", 
+            "Population": "9844686", 
+            "Country Code": "HUN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Iceland", 
+            "Population": "330823", 
+            "Country Code": "ISL", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "India", 
+            "Population": "1311050527", 
+            "Country Code": "IND", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Indonesia", 
+            "Population": "257563815", 
+            "Country Code": "IDN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Iran, Islamic Rep.", 
+            "Population": "79109272", 
+            "Country Code": "IRN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Iraq", 
+            "Population": "36423395", 
+            "Country Code": "IRQ", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Ireland", 
+            "Population": "4640703", 
+            "Country Code": "IRL", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Isle of Man", 
+            "Population": "87780", 
+            "Country Code": "IMY", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Israel", 
+            "Population": "8380400", 
+            "Country Code": "ISR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Italy", 
+            "Population": "60802085", 
+            "Country Code": "ITA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Jamaica", 
+            "Population": "2725941", 
+            "Country Code": "JAM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Japan", 
+            "Population": "126958472", 
+            "Country Code": "JPN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Jordan", 
+            "Population": "7594547", 
+            "Country Code": "JOR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Kazakhstan", 
+            "Population": "17544126", 
+            "Country Code": "KAZ", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Kenya", 
+            "Population": "46050302", 
+            "Country Code": "KEN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Kiribati", 
+            "Population": "112423", 
+            "Country Code": "KIR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Korea, Dem. People\u2019s Rep.", 
+            "Population": "25155317", 
+            "Country Code": "PRK", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Korea, Rep.", 
+            "Population": "50617045", 
+            "Country Code": "KOR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Kosovo", 
+            "Population": "1797151", 
+            "Country Code": "KSV", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Kuwait", 
+            "Population": "3892115", 
+            "Country Code": "KWT", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Kyrgyz Republic", 
+            "Population": "5957000", 
+            "Country Code": "KGZ", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Lao PDR", 
+            "Population": "6802023", 
+            "Country Code": "LAO", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Latvia", 
+            "Population": "1978440", 
+            "Country Code": "LVA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Lebanon", 
+            "Population": "5850743", 
+            "Country Code": "LBN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Lesotho", 
+            "Population": "2135022", 
+            "Country Code": "LSO", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Liberia", 
+            "Population": "4503438", 
+            "Country Code": "LBR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Libya", 
+            "Population": "6278438", 
+            "Country Code": "LBY", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Liechtenstein", 
+            "Population": "37531", 
+            "Country Code": "LIE", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Lithuania", 
+            "Population": "2910199", 
+            "Country Code": "LTU", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Luxembourg", 
+            "Population": "569676", 
+            "Country Code": "LUX", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Macao SAR, China", 
+            "Population": "587606", 
+            "Country Code": "MAC", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Macedonia, FYR", 
+            "Population": "2078453", 
+            "Country Code": "MKD", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Madagascar", 
+            "Population": "24235390", 
+            "Country Code": "MDG", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Malawi", 
+            "Population": "17215232", 
+            "Country Code": "MWI", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Malaysia", 
+            "Population": "30331007", 
+            "Country Code": "MYS", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Maldives", 
+            "Population": "409163", 
+            "Country Code": "MDV", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Mali", 
+            "Population": "17599694", 
+            "Country Code": "MLI", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Malta", 
+            "Population": "431333", 
+            "Country Code": "MLT", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Marshall Islands", 
+            "Population": "52993", 
+            "Country Code": "MHL", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Mauritania", 
+            "Population": "4067564", 
+            "Country Code": "MRT", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Mauritius", 
+            "Population": "1262605", 
+            "Country Code": "MUS", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Mexico", 
+            "Population": "127017224", 
+            "Country Code": "MEX", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Micronesia, Fed. Sts.", 
+            "Population": "104460", 
+            "Country Code": "FSM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Moldova", 
+            "Population": "3554150", 
+            "Country Code": "MDA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Monaco", 
+            "Population": "37731", 
+            "Country Code": "MCO", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Mongolia", 
+            "Population": "2959134", 
+            "Country Code": "MNG", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Montenegro", 
+            "Population": "622388", 
+            "Country Code": "MNE", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Morocco", 
+            "Population": "34377511", 
+            "Country Code": "MAR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Mozambique", 
+            "Population": "27977863", 
+            "Country Code": "MOZ", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Myanmar", 
+            "Population": "53897154", 
+            "Country Code": "MMR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Namibia", 
+            "Population": "2458830", 
+            "Country Code": "NAM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Nauru", 
+            "Population": "10222", 
+            "Country Code": "NRU", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Nepal", 
+            "Population": "28513700", 
+            "Country Code": "NPL", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Netherlands", 
+            "Population": "16936520", 
+            "Country Code": "NLD", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "New Caledonia", 
+            "Population": "273000", 
+            "Country Code": "NCL", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "New Zealand", 
+            "Population": "4595700", 
+            "Country Code": "NZL", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Nicaragua", 
+            "Population": "6082032", 
+            "Country Code": "NIC", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Niger", 
+            "Population": "19899120", 
+            "Country Code": "NER", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Nigeria", 
+            "Population": "182201962", 
+            "Country Code": "NGA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Northern Mariana Islands", 
+            "Population": "55070", 
+            "Country Code": "MNP", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Norway", 
+            "Population": "5195921", 
+            "Country Code": "NOR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Oman", 
+            "Population": "4490541", 
+            "Country Code": "OMN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Pakistan", 
+            "Population": "188924874", 
+            "Country Code": "PAK", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Palau", 
+            "Population": "21291", 
+            "Country Code": "PLW", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Panama", 
+            "Population": "3929141", 
+            "Country Code": "PAN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Papua New Guinea", 
+            "Population": "7619321", 
+            "Country Code": "PNG", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Paraguay", 
+            "Population": "6639123", 
+            "Country Code": "PRY", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Peru", 
+            "Population": "31376670", 
+            "Country Code": "PER", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Philippines", 
+            "Population": "100699395", 
+            "Country Code": "PHL", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Poland", 
+            "Population": "37999494", 
+            "Country Code": "POL", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Portugal", 
+            "Population": "10348648", 
+            "Country Code": "PRT", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Puerto Rico", 
+            "Population": "3474182", 
+            "Country Code": "PRI", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Qatar", 
+            "Population": "2235355", 
+            "Country Code": "QAT", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Romania", 
+            "Population": "19832389", 
+            "Country Code": "ROU", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Russian Federation", 
+            "Population": "144096812", 
+            "Country Code": "RUS", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Rwanda", 
+            "Population": "11609666", 
+            "Country Code": "RWA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Samoa", 
+            "Population": "193228", 
+            "Country Code": "WSM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "San Marino", 
+            "Population": "31781", 
+            "Country Code": "SMR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Sao Tome and Principe", 
+            "Population": "190344", 
+            "Country Code": "STP", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Saudi Arabia", 
+            "Population": "31540372", 
+            "Country Code": "SAU", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Senegal", 
+            "Population": "15129273", 
+            "Country Code": "SEN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Serbia", 
+            "Population": "7098247", 
+            "Country Code": "SRB", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Seychelles", 
+            "Population": "92900", 
+            "Country Code": "SYC", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Sierra Leone", 
+            "Population": "6453184", 
+            "Country Code": "SLE", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Singapore", 
+            "Population": "5535002", 
+            "Country Code": "SGP", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Sint Maarten (Dutch part)", 
+            "Population": "38817", 
+            "Country Code": "SXM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Slovak Republic", 
+            "Population": "5424050", 
+            "Country Code": "SVK", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Slovenia", 
+            "Population": "2063768", 
+            "Country Code": "SVN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Solomon Islands", 
+            "Population": "583591", 
+            "Country Code": "SLB", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Somalia", 
+            "Population": "10787104", 
+            "Country Code": "SOM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "South Africa", 
+            "Population": "54956920", 
+            "Country Code": "ZAF", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "South Sudan", 
+            "Population": "12339812", 
+            "Country Code": "SSD", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Spain", 
+            "Population": "46418269", 
+            "Country Code": "ESP", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Sri Lanka", 
+            "Population": "20966000", 
+            "Country Code": "LKA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "St. Kitts and Nevis", 
+            "Population": "55572", 
+            "Country Code": "KNA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "St. Lucia", 
+            "Population": "184999", 
+            "Country Code": "LCA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "St. Martin (French part)", 
+            "Population": "31754", 
+            "Country Code": "MAF", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "St. Vincent and the Grenadines", 
+            "Population": "109462", 
+            "Country Code": "VCT", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Sudan", 
+            "Population": "40234882", 
+            "Country Code": "SDN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Suriname", 
+            "Population": "542975", 
+            "Country Code": "SUR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Swaziland", 
+            "Population": "1286970", 
+            "Country Code": "SWZ", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Sweden", 
+            "Population": "9798871", 
+            "Country Code": "SWE", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Switzerland", 
+            "Population": "8286976", 
+            "Country Code": "CHE", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Syrian Arab Republic", 
+            "Population": "18502413", 
+            "Country Code": "SYR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Tajikistan", 
+            "Population": "8481855", 
+            "Country Code": "TJK", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Tanzania", 
+            "Population": "53470420", 
+            "Country Code": "TZA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Thailand", 
+            "Population": "67959359", 
+            "Country Code": "THA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Timor-Leste", 
+            "Population": "1245015", 
+            "Country Code": "TMP", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Togo", 
+            "Population": "7304578", 
+            "Country Code": "TGO", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Tonga", 
+            "Population": "106170", 
+            "Country Code": "TON", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Trinidad and Tobago", 
+            "Population": "1360088", 
+            "Country Code": "TTO", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Tunisia", 
+            "Population": "11107800", 
+            "Country Code": "TUN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Turkey", 
+            "Population": "78665830", 
+            "Country Code": "TUR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Turkmenistan", 
+            "Population": "5373502", 
+            "Country Code": "TKM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Turks and Caicos Islands", 
+            "Population": "34339", 
+            "Country Code": "TCA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Tuvalu", 
+            "Population": "9916", 
+            "Country Code": "TUV", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Uganda", 
+            "Population": "39032383", 
+            "Country Code": "UGA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Ukraine", 
+            "Population": "45198200", 
+            "Country Code": "UKR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "United Arab Emirates", 
+            "Population": "9156963", 
+            "Country Code": "ARE", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "United Kingdom", 
+            "Population": "65138232", 
+            "Country Code": "GBR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "United States", 
+            "Population": "321418820", 
+            "Country Code": "USA", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Uruguay", 
+            "Population": "3431555", 
+            "Country Code": "URY", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Uzbekistan", 
+            "Population": "31299500", 
+            "Country Code": "UZB", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Vanuatu", 
+            "Population": "264652", 
+            "Country Code": "VUT", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Venezuela, RB", 
+            "Population": "31108083", 
+            "Country Code": "VEN", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Vietnam", 
+            "Population": "91703800", 
+            "Country Code": "VNM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Virgin Islands (U.S.)", 
+            "Population": "103574", 
+            "Country Code": "VIR", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "West Bank and Gaza", 
+            "Population": "4422143", 
+            "Country Code": "WBG", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Yemen, Rep.", 
+            "Population": "26832215", 
+            "Country Code": "YEM", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Zambia", 
+            "Population": "16211767", 
+            "Country Code": "ZMB", 
+            "Series Name": "Population, total"
+        }, 
+        {
+            "Series Code": "SP.POP.TOTL", 
+            "Country Name": "Zimbabwe", 
+            "Population": "15602751", 
+            "Country Code": "ZWE", 
+            "Series Name": "Population, total"
+        }
+    ]
+}
