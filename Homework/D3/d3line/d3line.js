@@ -29,34 +29,48 @@ window.onload = function() {
             .x(function(d) { return x(timeParse(d.Date)); })
             .y(function(d) { return y(d.Average / 10); });
 
+    // Load in JSON data file
     d3.json("data.json", function(data) {
     	data = data.points['380']; // 380 is the city code of Maastricht
 
         x.domain(d3.extent(data, function(d) { return timeParse(d.Date); }));
 
+        // Create X axis
         g.append("g")
             .attr("class", "axis x-axis")
             .attr("transform", "translate(0," + height + ")")
             .call(xAxis);
 
+        // Create Y axis
         g.append("g")
             .attr("class", "axis y-axis")
-            .call(yAxis);
+            .call(yAxis)
+            .append("text")
+                .attr("fill", "#000")
+                .attr("transform", "rotate(-90)")
+                .attr("y", 6)
+                .attr("dy", "0.71em")
+                .style("text-anchor", "end")
+                .text("Temperature (\xB0 C)");
 
+        // Create path element (line)
         g.append("path")
             .datum(data)
             .attr("class", "line")
             .attr("d", line);
 
+        // Mouseover listener on line
         var lineElem = chart.select(".line")
             .on("mouseover", handleMouseOver);
     });
 
+    // Handle mouse over line
     function handleMouseOver(d, i) {
-        var point = d3.mouse(this);
+        var point = d3.mouse(this); // Get mouse coordinates
 
         chart.selectAll(".circle").remove();
 
+        // Create pop-up with circle and text displaying data
         chart.append("circle")
             .attr("class", "circle")
             .attr("cx", point[0] + margin.left)

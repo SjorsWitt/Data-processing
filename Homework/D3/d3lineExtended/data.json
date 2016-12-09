@@ -1,0 +1,368 @@
+{
+    "points": {
+        "380": [
+            {
+                "Date": "20161101", 
+                "Average": "98", 
+                "Minimum": "52", 
+                "Maximum": "149"
+            }, 
+            {
+                "Date": "20161102", 
+                "Average": "73", 
+                "Minimum": "49", 
+                "Maximum": "105"
+            }, 
+            {
+                "Date": "20161103", 
+                "Average": "65", 
+                "Minimum": "44", 
+                "Maximum": "104"
+            }, 
+            {
+                "Date": "20161104", 
+                "Average": "71", 
+                "Minimum": "46", 
+                "Maximum": "103"
+            }, 
+            {
+                "Date": "20161105", 
+                "Average": "73", 
+                "Minimum": "57", 
+                "Maximum": "106"
+            }, 
+            {
+                "Date": "20161106", 
+                "Average": "54", 
+                "Minimum": "37", 
+                "Maximum": "78"
+            }, 
+            {
+                "Date": "20161107", 
+                "Average": "43", 
+                "Minimum": "26", 
+                "Maximum": "55"
+            }, 
+            {
+                "Date": "20161108", 
+                "Average": "30", 
+                "Minimum": "7", 
+                "Maximum": "65"
+            }, 
+            {
+                "Date": "20161109", 
+                "Average": "36", 
+                "Minimum": "19", 
+                "Maximum": "57"
+            }, 
+            {
+                "Date": "20161110", 
+                "Average": "60", 
+                "Minimum": "28", 
+                "Maximum": "79"
+            }, 
+            {
+                "Date": "20161111", 
+                "Average": "31", 
+                "Minimum": "3", 
+                "Maximum": "54"
+            }, 
+            {
+                "Date": "20161112", 
+                "Average": "34", 
+                "Minimum": "-7", 
+                "Maximum": "63"
+            }, 
+            {
+                "Date": "20161113", 
+                "Average": "41", 
+                "Minimum": "32", 
+                "Maximum": "58"
+            }, 
+            {
+                "Date": "20161114", 
+                "Average": "28", 
+                "Minimum": "-11", 
+                "Maximum": "51"
+            }, 
+            {
+                "Date": "20161115", 
+                "Average": "75", 
+                "Minimum": "45", 
+                "Maximum": "102"
+            }, 
+            {
+                "Date": "20161116", 
+                "Average": "113", 
+                "Minimum": "100", 
+                "Maximum": "123"
+            }, 
+            {
+                "Date": "20161117", 
+                "Average": "105", 
+                "Minimum": "86", 
+                "Maximum": "121"
+            }, 
+            {
+                "Date": "20161118", 
+                "Average": "72", 
+                "Minimum": "37", 
+                "Maximum": "119"
+            }, 
+            {
+                "Date": "20161119", 
+                "Average": "60", 
+                "Minimum": "47", 
+                "Maximum": "80"
+            }, 
+            {
+                "Date": "20161120", 
+                "Average": "104", 
+                "Minimum": "54", 
+                "Maximum": "140"
+            }, 
+            {
+                "Date": "20161121", 
+                "Average": "131", 
+                "Minimum": "117", 
+                "Maximum": "144"
+            }, 
+            {
+                "Date": "20161122", 
+                "Average": "108", 
+                "Minimum": "78", 
+                "Maximum": "128"
+            }, 
+            {
+                "Date": "20161123", 
+                "Average": "97", 
+                "Minimum": "85", 
+                "Maximum": "127"
+            }, 
+            {
+                "Date": "20161124", 
+                "Average": "80", 
+                "Minimum": "45", 
+                "Maximum": "107"
+            }, 
+            {
+                "Date": "20161125", 
+                "Average": "42", 
+                "Minimum": "12", 
+                "Maximum": "79"
+            }, 
+            {
+                "Date": "20161126", 
+                "Average": "46", 
+                "Minimum": "12", 
+                "Maximum": "69"
+            }, 
+            {
+                "Date": "20161127", 
+                "Average": "43", 
+                "Minimum": "0", 
+                "Maximum": "75"
+            }, 
+            {
+                "Date": "20161128", 
+                "Average": "4", 
+                "Minimum": "-22", 
+                "Maximum": "32"
+            }, 
+            {
+                "Date": "20161129", 
+                "Average": "-17", 
+                "Minimum": "-53", 
+                "Maximum": "25"
+            }, 
+            {
+                "Date": "20161130", 
+                "Average": "0", 
+                "Minimum": "-57", 
+                "Maximum": "41"
+            }
+        ], 
+        "270": [
+            {
+                "Date": "20161101", 
+                "Average": "97", 
+                "Minimum": "59", 
+                "Maximum": "136"
+            }, 
+            {
+                "Date": "20161102", 
+                "Average": "80", 
+                "Minimum": "47", 
+                "Maximum": "112"
+            }, 
+            {
+                "Date": "20161103", 
+                "Average": "77", 
+                "Minimum": "32", 
+                "Maximum": "110"
+            }, 
+            {
+                "Date": "20161104", 
+                "Average": "80", 
+                "Minimum": "72", 
+                "Maximum": "97"
+            }, 
+            {
+                "Date": "20161105", 
+                "Average": "65", 
+                "Minimum": "35", 
+                "Maximum": "100"
+            }, 
+            {
+                "Date": "20161106", 
+                "Average": "68", 
+                "Minimum": "24", 
+                "Maximum": "110"
+            }, 
+            {
+                "Date": "20161107", 
+                "Average": "41", 
+                "Minimum": "5", 
+                "Maximum": "62"
+            }, 
+            {
+                "Date": "20161108", 
+                "Average": "15", 
+                "Minimum": "-17", 
+                "Maximum": "33"
+            }, 
+            {
+                "Date": "20161109", 
+                "Average": "25", 
+                "Minimum": "11", 
+                "Maximum": "41"
+            }, 
+            {
+                "Date": "20161110", 
+                "Average": "19", 
+                "Minimum": "6", 
+                "Maximum": "33"
+            }, 
+            {
+                "Date": "20161111", 
+                "Average": "19", 
+                "Minimum": "-25", 
+                "Maximum": "67"
+            }, 
+            {
+                "Date": "20161112", 
+                "Average": "14", 
+                "Minimum": "-13", 
+                "Maximum": "39"
+            }, 
+            {
+                "Date": "20161113", 
+                "Average": "23", 
+                "Minimum": "6", 
+                "Maximum": "35"
+            }, 
+            {
+                "Date": "20161114", 
+                "Average": "33", 
+                "Minimum": "-4", 
+                "Maximum": "70"
+            }, 
+            {
+                "Date": "20161115", 
+                "Average": "99", 
+                "Minimum": "66", 
+                "Maximum": "125"
+            }, 
+            {
+                "Date": "20161116", 
+                "Average": "101", 
+                "Minimum": "71", 
+                "Maximum": "128"
+            }, 
+            {
+                "Date": "20161117", 
+                "Average": "73", 
+                "Minimum": "35", 
+                "Maximum": "97"
+            }, 
+            {
+                "Date": "20161118", 
+                "Average": "59", 
+                "Minimum": "38", 
+                "Maximum": "86"
+            }, 
+            {
+                "Date": "20161119", 
+                "Average": "46", 
+                "Minimum": "25", 
+                "Maximum": "71"
+            }, 
+            {
+                "Date": "20161120", 
+                "Average": "70", 
+                "Minimum": "41", 
+                "Maximum": "100"
+            }, 
+            {
+                "Date": "20161121", 
+                "Average": "108", 
+                "Minimum": "67", 
+                "Maximum": "130"
+            }, 
+            {
+                "Date": "20161122", 
+                "Average": "100", 
+                "Minimum": "60", 
+                "Maximum": "118"
+            }, 
+            {
+                "Date": "20161123", 
+                "Average": "76", 
+                "Minimum": "29", 
+                "Maximum": "93"
+            }, 
+            {
+                "Date": "20161124", 
+                "Average": "59", 
+                "Minimum": "26", 
+                "Maximum": "88"
+            }, 
+            {
+                "Date": "20161125", 
+                "Average": "36", 
+                "Minimum": "2", 
+                "Maximum": "75"
+            }, 
+            {
+                "Date": "20161126", 
+                "Average": "33", 
+                "Minimum": "-32", 
+                "Maximum": "87"
+            }, 
+            {
+                "Date": "20161127", 
+                "Average": "58", 
+                "Minimum": "-17", 
+                "Maximum": "101"
+            }, 
+            {
+                "Date": "20161128", 
+                "Average": "-8", 
+                "Minimum": "-56", 
+                "Maximum": "46"
+            }, 
+            {
+                "Date": "20161129", 
+                "Average": "-19", 
+                "Minimum": "-68", 
+                "Maximum": "30"
+            }, 
+            {
+                "Date": "20161130", 
+                "Average": "55", 
+                "Minimum": "-13", 
+                "Maximum": "84"
+            }
+        ]
+    }
+}
