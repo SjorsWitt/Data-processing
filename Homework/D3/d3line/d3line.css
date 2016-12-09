@@ -1,0 +1,34 @@
+/* Name: Sjors Witteveen
+ * Student number: 10808493 */
+
+.line
+{
+    fill: none;
+    stroke-width: 2px;
+    stroke: black;
+}
+
+.graph
+{
+    border:1px solid black;
+}
+
+.axis .domain
+{
+    fill: none;
+    stroke-width: 2px;
+    stroke: black;
+}
+
+.circle
+{
+    fill: none;
+    stroke-width: 2px;
+    stroke: tomato;
+}
+
+.pop-up
+{
+    pointer-events: none;
+    fill: tomato;
+}
