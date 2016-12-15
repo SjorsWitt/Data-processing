@@ -1,0 +1,35 @@
+<!--Name: Sjors Witteveen
+    Student number: 10808493-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>World population in 2015</title>
+
+        <link rel="stylesheet" type="text/css" href="d3linkedViews.css"/>
+
+        <script src="d3.min.js"></script>
+        <script src="topojson.min.js"></script>
+        <script src="datamaps.world.min.js"></script>
+        <script src="d3linkedViews.js"></script>
+    </head>
+
+    <body>
+        <h1>World population in 2015</h1>
+        <div id="map_container" style="position: relative"></div>
+
+        <div class="menu">
+            <p>Choose a category: </p>
+            <select name="Cities" id="drop-down">
+                <option value="Age">Age distribution</option>
+                <option value="Gender">Gender distribution</option>
+            </select>
+        </div>
+
+        <div class="source">
+            <p>Source: </p>
+            <a href="http://databank.worldbank.org/data/reports.aspx?source=2&series=SP.POP.TOTL&country=#">World Bank</a>
+        </div>
+        <p class="signature">By: Sjors Witteveen</p>
+    </body>
+</html>

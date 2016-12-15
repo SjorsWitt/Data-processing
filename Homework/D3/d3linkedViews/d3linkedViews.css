@@ -1,0 +1,97 @@
+/* Name: Sjors Witteveen
+ * Student number: 10808493 */
+
+h1 {
+    text-align: center;
+    font-family: arial;
+    margin: 0px;
+}
+
+h2 {
+    text-align: center;
+    font-family: arial;
+    margin: 0;
+}
+
+#map_container {
+    width: 75%;
+    float: left;
+}
+
+.pieChart_container {
+    width: 25%;
+    height: 100%;
+    float: left;
+    margin-top: 25px;
+}
+
+.datamaps-legend {
+    bottom: 0px;
+    padding-bottom: 0px !important;
+}
+
+.datamaps-legend dl {
+    margin: 0 !important;
+}
+
+.datamaps-legend dt, .datamaps-legend dd {
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    margin: 0 !important;
+}
+
+.datamaps-legend dt {
+    border-left: 2px solid;
+    margin-left: 10px !important;
+}
+
+.datamaps-legend dd {
+    border-right: 2px solid;
+}
+
+.arc:hover path {
+    stroke: black;
+    stroke-width: 4px;
+}
+
+.arc text {
+    text-anchor: middle;
+    font-family: arial;
+    font-weight: bold;
+}
+
+.menu p, #drop-down
+{
+    float: left;
+    margin: 0;
+}
+
+#drop-down, a
+{
+    margin-left: 5px !important;
+}
+
+.signature, .source
+{
+    position: absolute;
+    bottom: 0px;
+    margin: 8px;
+    font-family: arial;
+    font-size: 14px;
+}
+
+.signature
+{
+    right: 0px;
+}
+
+.source
+{
+    left: 0px;
+}
+
+.source p, .source a 
+{
+    float: left;
+    margin: 0;
+}

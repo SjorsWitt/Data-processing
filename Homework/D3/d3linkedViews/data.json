@@ -1,0 +1,1957 @@
+{
+    "points": [
+        {
+            "0-14": "44.04194947", 
+            "65+": "2.469089724", 
+            "Country Code": "AFG", 
+            "15-64": "53.48896081", 
+            "Country Name": "Afghanistan", 
+            "Female": "48.43075023", 
+            "Population": "32526562"
+        }, 
+        {
+            "0-14": "18.54620412", 
+            "65+": "12.39633387", 
+            "Country Code": "ALB", 
+            "15-64": "69.05746201", 
+            "Country Name": "Albania", 
+            "Female": "50.39767955", 
+            "Population": "2889167"
+        }, 
+        {
+            "0-14": "28.53871044", 
+            "65+": "5.938038072", 
+            "Country Code": "DZA", 
+            "15-64": "65.52325149", 
+            "Country Name": "Algeria", 
+            "Female": "49.6865253", 
+            "Population": "39666519"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "ASM", 
+            "15-64": "..", 
+            "Country Name": "American Samoa", 
+            "Female": "..", 
+            "Population": "55538"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "ADO", 
+            "15-64": "..", 
+            "Country Name": "Andorra", 
+            "Female": "..", 
+            "Population": "70473"
+        }, 
+        {
+            "0-14": "47.65044117", 
+            "65+": "2.313470552", 
+            "Country Code": "AGO", 
+            "15-64": "50.03608828", 
+            "Country Name": "Angola", 
+            "Female": "50.37884701", 
+            "Population": "25021974"
+        }, 
+        {
+            "0-14": "24.1782657", 
+            "65+": "7.164172602", 
+            "Country Code": "ATG", 
+            "15-64": "68.6575617", 
+            "Country Name": "Antigua and Barbuda", 
+            "Female": "52.20000436", 
+            "Population": "91818"
+        }, 
+        {
+            "0-14": "25.19419749", 
+            "65+": "10.92655359", 
+            "Country Code": "ARG", 
+            "15-64": "63.87924892", 
+            "Country Name": "Argentina", 
+            "Female": "51.06796443", 
+            "Population": "43416755"
+        }, 
+        {
+            "0-14": "18.38389482", 
+            "65+": "10.82598339", 
+            "Country Code": "ARM", 
+            "15-64": "70.79012179", 
+            "Country Name": "Armenia", 
+            "Female": "53.62344054", 
+            "Population": "3017712"
+        }, 
+        {
+            "0-14": "18.33687878", 
+            "65+": "12.19570888", 
+            "Country Code": "ABW", 
+            "15-64": "69.46741233", 
+            "Country Name": "Aruba", 
+            "Female": "52.47331286", 
+            "Population": "103889"
+        }, 
+        {
+            "0-14": "18.6980894", 
+            "65+": "15.04487489", 
+            "Country Code": "AUS", 
+            "15-64": "66.25703571", 
+            "Country Name": "Australia", 
+            "Female": "50.03567737", 
+            "Population": "23781169"
+        }, 
+        {
+            "0-14": "14.20763979", 
+            "65+": "18.75913005", 
+            "Country Code": "AUT", 
+            "15-64": "67.03323016", 
+            "Country Name": "Austria", 
+            "Female": "50.88912441", 
+            "Population": "8611088"
+        }, 
+        {
+            "0-14": "21.91854638", 
+            "65+": "5.626089813", 
+            "Country Code": "AZE", 
+            "15-64": "72.45536381", 
+            "Country Name": "Azerbaijan", 
+            "Female": "50.21978748", 
+            "Population": "9651349"
+        }, 
+        {
+            "0-14": "20.92114046", 
+            "65+": "8.280522346", 
+            "Country Code": "BHS", 
+            "15-64": "70.79833719", 
+            "Country Name": "Bahamas, The", 
+            "Female": "51.04440762", 
+            "Population": "388019"
+        }, 
+        {
+            "0-14": "21.47495311", 
+            "65+": "2.410841417", 
+            "Country Code": "BHR", 
+            "15-64": "76.11420547", 
+            "Country Name": "Bahrain", 
+            "Female": "38.0203262", 
+            "Population": "1377237"
+        }, 
+        {
+            "0-14": "29.44697472", 
+            "65+": "4.973556365", 
+            "Country Code": "BGD", 
+            "15-64": "65.57946892", 
+            "Country Name": "Bangladesh", 
+            "Female": "49.51604653", 
+            "Population": "160995642"
+        }, 
+        {
+            "0-14": "19.36597294", 
+            "65+": "14.1639252", 
+            "Country Code": "BRB", 
+            "15-64": "66.47010186", 
+            "Country Name": "Barbados", 
+            "Female": "52.08697641", 
+            "Population": "284215"
+        }, 
+        {
+            "0-14": "16.06820723", 
+            "65+": "13.98092172", 
+            "Country Code": "BLR", 
+            "15-64": "69.95087105", 
+            "Country Name": "Belarus", 
+            "Female": "53.52137876", 
+            "Population": "9513000"
+        }, 
+        {
+            "0-14": "16.94444169", 
+            "65+": "18.22481643", 
+            "Country Code": "BEL", 
+            "15-64": "64.83074188", 
+            "Country Name": "Belgium", 
+            "Female": "50.80089798", 
+            "Population": "11285721"
+        }, 
+        {
+            "0-14": "32.4542775", 
+            "65+": "3.762451745", 
+            "Country Code": "BLZ", 
+            "15-64": "63.78327076", 
+            "Country Name": "Belize", 
+            "Female": "50.15015851", 
+            "Population": "359287"
+        }, 
+        {
+            "0-14": "42.15840157", 
+            "65+": "2.891166764", 
+            "Country Code": "BEN", 
+            "15-64": "54.95043167", 
+            "Country Name": "Benin", 
+            "Female": "50.12836139", 
+            "Population": "10879829"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "BMU", 
+            "15-64": "..", 
+            "Country Name": "Bermuda", 
+            "Female": "..", 
+            "Population": "65235"
+        }, 
+        {
+            "0-14": "26.86524786", 
+            "65+": "5.062787966", 
+            "Country Code": "BTN", 
+            "15-64": "68.07196417", 
+            "Country Name": "Bhutan", 
+            "Female": "46.27415046", 
+            "Population": "774830"
+        }, 
+        {
+            "0-14": "32.44523742", 
+            "65+": "6.465436578", 
+            "Country Code": "BOL", 
+            "15-64": "61.089326", 
+            "Country Name": "Bolivia", 
+            "Female": "49.92202583", 
+            "Population": "10724705"
+        }, 
+        {
+            "0-14": "13.49808", 
+            "65+": "15.44395678", 
+            "Country Code": "BIH", 
+            "15-64": "71.05796323", 
+            "Country Name": "Bosnia and Herzegovina", 
+            "Female": "50.22981743", 
+            "Population": "3810416"
+        }, 
+        {
+            "0-14": "31.9980906", 
+            "65+": "3.598079103", 
+            "Country Code": "BWA", 
+            "15-64": "64.4038303", 
+            "Country Name": "Botswana", 
+            "Female": "50.03684002", 
+            "Population": "2262485"
+        }, 
+        {
+            "0-14": "23.02764602", 
+            "65+": "7.844674968", 
+            "Country Code": "BRA", 
+            "15-64": "69.12767902", 
+            "Country Name": "Brazil", 
+            "Female": "50.82898556", 
+            "Population": "207847528"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "VGB", 
+            "15-64": "..", 
+            "Country Name": "British Virgin Islands", 
+            "Female": "..", 
+            "Population": "30117"
+        }, 
+        {
+            "0-14": "23.10816942", 
+            "65+": "4.419548758", 
+            "Country Code": "BRN", 
+            "15-64": "72.47228182", 
+            "Country Name": "Brunei Darussalam", 
+            "Female": "48.47987183", 
+            "Population": "423188"
+        }, 
+        {
+            "0-14": "14.14401576", 
+            "65+": "20.02747774", 
+            "Country Code": "BGR", 
+            "15-64": "65.8285065", 
+            "Country Name": "Bulgaria", 
+            "Female": "51.41944788", 
+            "Population": "7177991"
+        }, 
+        {
+            "0-14": "45.57206429", 
+            "65+": "2.393307695", 
+            "Country Code": "BFA", 
+            "15-64": "52.03462802", 
+            "Country Name": "Burkina Faso", 
+            "Female": "50.37894416", 
+            "Population": "18105570"
+        }, 
+        {
+            "0-14": "44.80131848", 
+            "65+": "2.471276074", 
+            "Country Code": "BDI", 
+            "15-64": "52.72740544", 
+            "Country Name": "Burundi", 
+            "Female": "50.58349549", 
+            "Population": "11178921"
+        }, 
+        {
+            "0-14": "29.65060653", 
+            "65+": "4.580770103", 
+            "Country Code": "CPV", 
+            "15-64": "65.76862337", 
+            "Country Name": "Cabo Verde", 
+            "Female": "50.65782648", 
+            "Population": "520502"
+        }, 
+        {
+            "0-14": "31.60227833", 
+            "65+": "4.117942991", 
+            "Country Code": "KHM", 
+            "15-64": "64.27977868", 
+            "Country Name": "Cambodia", 
+            "Female": "51.22478327", 
+            "Population": "15577899"
+        }, 
+        {
+            "0-14": "42.52268628", 
+            "65+": "3.205582856", 
+            "Country Code": "CMR", 
+            "15-64": "54.27173087", 
+            "Country Name": "Cameroon", 
+            "Female": "49.99916682", 
+            "Population": "23344179"
+        }, 
+        {
+            "0-14": "15.97205804", 
+            "65+": "16.13577846", 
+            "Country Code": "CAN", 
+            "15-64": "67.8921635", 
+            "Country Name": "Canada", 
+            "Female": "50.39982135", 
+            "Population": "35851774"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "CYM", 
+            "15-64": "..", 
+            "Country Name": "Cayman Islands", 
+            "Female": "..", 
+            "Population": "59967"
+        }, 
+        {
+            "0-14": "39.05261216", 
+            "65+": "3.855457878", 
+            "Country Code": "CAF", 
+            "15-64": "57.09192996", 
+            "Country Name": "Central African Republic", 
+            "Female": "50.7085114", 
+            "Population": "4900274"
+        }, 
+        {
+            "0-14": "47.72033739", 
+            "65+": "2.450740418", 
+            "Country Code": "TCD", 
+            "15-64": "49.82892219", 
+            "Country Name": "Chad", 
+            "Female": "49.93706132", 
+            "Population": "14037472"
+        }, 
+        {
+            "0-14": "14.70872126", 
+            "65+": "17.26840652", 
+            "Country Code": "CHI", 
+            "15-64": "68.02287222", 
+            "Country Name": "Channel Islands", 
+            "Female": "50.44046135", 
+            "Population": "163692"
+        }, 
+        {
+            "0-14": "20.14693332", 
+            "65+": "11.0030114", 
+            "Country Code": "CHL", 
+            "15-64": "68.85005528", 
+            "Country Name": "Chile", 
+            "Female": "50.66302967", 
+            "Population": "17948141"
+        }, 
+        {
+            "0-14": "17.23160046", 
+            "65+": "9.551206566", 
+            "Country Code": "CHN", 
+            "15-64": "73.21719297", 
+            "Country Name": "China", 
+            "Female": "48.4773329", 
+            "Population": "1371220000"
+        }, 
+        {
+            "0-14": "24.28677329", 
+            "65+": "7.039005236", 
+            "Country Code": "COL", 
+            "15-64": "68.67422148", 
+            "Country Name": "Colombia", 
+            "Female": "50.768872", 
+            "Population": "48228704"
+        }, 
+        {
+            "0-14": "40.27374397", 
+            "65+": "2.793497313", 
+            "Country Code": "COM", 
+            "15-64": "56.93275872", 
+            "Country Name": "Comoros", 
+            "Female": "49.56079719", 
+            "Population": "788474"
+        }, 
+        {
+            "0-14": "45.9929356", 
+            "65+": "2.963936108", 
+            "Country Code": "ZAR", 
+            "15-64": "51.0431283", 
+            "Country Name": "Congo, Dem. Rep.", 
+            "Female": "50.1297737", 
+            "Population": "77266814"
+        }, 
+        {
+            "0-14": "42.63072118", 
+            "65+": "3.660842407", 
+            "Country Code": "COG", 
+            "15-64": "53.70843641", 
+            "Country Name": "Congo, Rep.", 
+            "Female": "49.97933048", 
+            "Population": "4620330"
+        }, 
+        {
+            "0-14": "22.30866188", 
+            "65+": "8.901047246", 
+            "Country Code": "CRI", 
+            "15-64": "68.79029088", 
+            "Country Name": "Costa Rica", 
+            "Female": "49.96630511", 
+            "Population": "4807850"
+        }, 
+        {
+            "0-14": "42.47431762", 
+            "65+": "3.026915864", 
+            "Country Code": "CIV", 
+            "15-64": "54.49876652", 
+            "Country Name": "Cote d'Ivoire", 
+            "Female": "49.13937177", 
+            "Population": "22701556"
+        }, 
+        {
+            "0-14": "14.89065558", 
+            "65+": "18.93707475", 
+            "Country Code": "HRV", 
+            "15-64": "66.17226967", 
+            "Country Name": "Croatia", 
+            "Female": "51.76657783", 
+            "Population": "4224404"
+        }, 
+        {
+            "0-14": "16.3053329", 
+            "65+": "13.97284637", 
+            "Country Code": "CUB", 
+            "15-64": "69.72182073", 
+            "Country Name": "Cuba", 
+            "Female": "49.76152727", 
+            "Population": "11389562"
+        }, 
+        {
+            "0-14": "18.97610096", 
+            "65+": "14.84131982", 
+            "Country Code": "CUW", 
+            "15-64": "66.18257921", 
+            "Country Name": "Curacao", 
+            "Female": "53.87301769", 
+            "Population": "158040"
+        }, 
+        {
+            "0-14": "16.55101691", 
+            "65+": "12.84544752", 
+            "Country Code": "CYP", 
+            "15-64": "70.60353557", 
+            "Country Name": "Cyprus", 
+            "Female": "48.983781", 
+            "Population": "1165300"
+        }, 
+        {
+            "0-14": "15.04189531", 
+            "65+": "18.07598766", 
+            "Country Code": "CZE", 
+            "15-64": "66.88211704", 
+            "Country Name": "Czech Republic", 
+            "Female": "50.86810571", 
+            "Population": "10551219"
+        }, 
+        {
+            "0-14": "16.8810077", 
+            "65+": "18.95943981", 
+            "Country Code": "DNK", 
+            "15-64": "64.15955249", 
+            "Country Name": "Denmark", 
+            "Female": "50.36357745", 
+            "Population": "5676002"
+        }, 
+        {
+            "0-14": "32.73541692", 
+            "65+": "4.186578755", 
+            "Country Code": "DJI", 
+            "15-64": "63.07800433", 
+            "Country Name": "Djibouti", 
+            "Female": "49.78470729", 
+            "Population": "887861"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "DMA", 
+            "15-64": "..", 
+            "Country Name": "Dominica", 
+            "Female": "..", 
+            "Population": "72680"
+        }, 
+        {
+            "0-14": "29.95884176", 
+            "65+": "6.652659461", 
+            "Country Code": "DOM", 
+            "15-64": "63.38849877", 
+            "Country Name": "Dominican Republic", 
+            "Female": "50.17187337", 
+            "Population": "10528391"
+        }, 
+        {
+            "0-14": "29.01927441", 
+            "65+": "6.704191426", 
+            "Country Code": "ECU", 
+            "15-64": "64.27653417", 
+            "Country Name": "Ecuador", 
+            "Female": "50.00692192", 
+            "Population": "16144363"
+        }, 
+        {
+            "0-14": "33.16028013", 
+            "65+": "5.220261196", 
+            "Country Code": "EGY", 
+            "15-64": "61.61945867", 
+            "Country Name": "Egypt, Arab Rep.", 
+            "Female": "49.4684863", 
+            "Population": "91508084"
+        }, 
+        {
+            "0-14": "27.02860632", 
+            "65+": "8.171798211", 
+            "Country Code": "SLV", 
+            "15-64": "64.79959547", 
+            "Country Name": "El Salvador", 
+            "Female": "53.06941896", 
+            "Population": "6126583"
+        }, 
+        {
+            "0-14": "39.26088088", 
+            "65+": "2.885948927", 
+            "Country Code": "GNQ", 
+            "15-64": "57.85317019", 
+            "Country Name": "Equatorial Guinea", 
+            "Female": "48.74849123", 
+            "Population": "845060"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "ERI", 
+            "15-64": "..", 
+            "Country Name": "Eritrea", 
+            "Female": "..", 
+            "Population": ".."
+        }, 
+        {
+            "0-14": "16.0878224", 
+            "65+": "18.75970433", 
+            "Country Code": "EST", 
+            "15-64": "65.15247326", 
+            "Country Name": "Estonia", 
+            "Female": "53.1968873", 
+            "Population": "1311998"
+        }, 
+        {
+            "0-14": "41.44022759", 
+            "65+": "3.483890604", 
+            "Country Code": "ETH", 
+            "15-64": "55.07588181", 
+            "Country Name": "Ethiopia", 
+            "Female": "50.08830198", 
+            "Population": "99390750"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "FRO", 
+            "15-64": "..", 
+            "Country Name": "Faroe Islands", 
+            "Female": "..", 
+            "Population": "48199"
+        }, 
+        {
+            "0-14": "28.74465474", 
+            "65+": "5.831002808", 
+            "Country Code": "FJI", 
+            "15-64": "65.42434246", 
+            "Country Name": "Fiji", 
+            "Female": "49.15322061", 
+            "Population": "892145"
+        }, 
+        {
+            "0-14": "16.33833062", 
+            "65+": "20.4771837", 
+            "Country Code": "FIN", 
+            "15-64": "63.18448568", 
+            "Country Name": "Finland", 
+            "Female": "50.77568517", 
+            "Population": "5482013"
+        }, 
+        {
+            "0-14": "18.48353324", 
+            "65+": "19.12051096", 
+            "Country Code": "FRA", 
+            "15-64": "62.39595579", 
+            "Country Name": "France", 
+            "Female": "51.32931891", 
+            "Population": "66808385"
+        }, 
+        {
+            "0-14": "22.14107878", 
+            "65+": "7.550112461", 
+            "Country Code": "PYF", 
+            "15-64": "70.30880876", 
+            "Country Name": "French Polynesia", 
+            "Female": "48.96945863", 
+            "Population": "282764"
+        }, 
+        {
+            "0-14": "37.12693272", 
+            "65+": "5.104932962", 
+            "Country Code": "GAB", 
+            "15-64": "57.76813432", 
+            "Country Name": "Gabon", 
+            "Female": "49.43279167", 
+            "Population": "1725292"
+        }, 
+        {
+            "0-14": "46.18428428", 
+            "65+": "2.313850252", 
+            "Country Code": "GMB", 
+            "15-64": "51.50186547", 
+            "Country Name": "Gambia, The", 
+            "Female": "50.49881362", 
+            "Population": "1990924"
+        }, 
+        {
+            "0-14": "17.32746439", 
+            "65+": "14.02565921", 
+            "Country Code": "GEO", 
+            "15-64": "68.6468764", 
+            "Country Name": "Georgia", 
+            "Female": "52.29398282", 
+            "Population": "3679000"
+        }, 
+        {
+            "0-14": "12.88582413", 
+            "65+": "21.24065194", 
+            "Country Code": "DEU", 
+            "15-64": "65.87352393", 
+            "Country Name": "Germany", 
+            "Female": "50.85705908", 
+            "Population": "81413145"
+        }, 
+        {
+            "0-14": "38.81713803", 
+            "65+": "3.394139481", 
+            "Country Code": "GHA", 
+            "15-64": "57.78872249", 
+            "Country Name": "Ghana", 
+            "Female": "50.25370584", 
+            "Population": "27409893"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "GIB", 
+            "15-64": "..", 
+            "Country Name": "Gibraltar", 
+            "Female": "..", 
+            "Population": "32217"
+        }, 
+        {
+            "0-14": "14.60232704", 
+            "65+": "21.39655818", 
+            "Country Code": "GRC", 
+            "15-64": "64.00111478", 
+            "Country Name": "Greece", 
+            "Female": "51.20624482", 
+            "Population": "10823732"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "GRL", 
+            "15-64": "..", 
+            "Country Name": "Greenland", 
+            "Female": "..", 
+            "Population": "56114"
+        }, 
+        {
+            "0-14": "26.48350105", 
+            "65+": "7.159372806", 
+            "Country Code": "GRD", 
+            "15-64": "66.35712614", 
+            "Country Name": "Grenada", 
+            "Female": "49.83945706", 
+            "Population": "106825"
+        }, 
+        {
+            "0-14": "25.4666392", 
+            "65+": "8.734732319", 
+            "Country Code": "GUM", 
+            "15-64": "65.79862848", 
+            "Country Name": "Guam", 
+            "Female": "49.28745916", 
+            "Population": "169885"
+        }, 
+        {
+            "0-14": "36.62282152", 
+            "65+": "4.846533635", 
+            "Country Code": "GTM", 
+            "15-64": "58.53064484", 
+            "Country Name": "Guatemala", 
+            "Female": "51.09026264", 
+            "Population": "16342897"
+        }, 
+        {
+            "0-14": "42.53199604", 
+            "65+": "3.063419462", 
+            "Country Code": "GIN", 
+            "15-64": "54.40458449", 
+            "Country Name": "Guinea", 
+            "Female": "49.85770019", 
+            "Population": "12608590"
+        }, 
+        {
+            "0-14": "40.79291882", 
+            "65+": "3.168422051", 
+            "Country Code": "GNB", 
+            "15-64": "56.03865913", 
+            "Country Name": "Guinea-Bissau", 
+            "Female": "50.36124327", 
+            "Population": "1844325"
+        }, 
+        {
+            "0-14": "28.80697706", 
+            "65+": "5.006485592", 
+            "Country Code": "GUY", 
+            "15-64": "66.18653735", 
+            "Country Name": "Guyana", 
+            "Female": "49.74494352", 
+            "Population": "767085"
+        }, 
+        {
+            "0-14": "33.74137236", 
+            "65+": "4.630855171", 
+            "Country Code": "HTI", 
+            "15-64": "61.62777247", 
+            "Country Name": "Haiti", 
+            "Female": "50.54253699", 
+            "Population": "10711067"
+        }, 
+        {
+            "0-14": "31.76279805", 
+            "65+": "4.853264248", 
+            "Country Code": "HND", 
+            "15-64": "63.3839377", 
+            "Country Name": "Honduras", 
+            "Female": "50.01941781", 
+            "Population": "8075060"
+        }, 
+        {
+            "0-14": "11.96067554", 
+            "65+": "15.06051812", 
+            "Country Code": "HKG", 
+            "15-64": "72.97880634", 
+            "Country Name": "Hong Kong SAR, China", 
+            "Female": "53.05091958", 
+            "Population": "7305700"
+        }, 
+        {
+            "0-14": "14.55870778", 
+            "65+": "17.81789855", 
+            "Country Code": "HUN", 
+            "15-64": "67.62339367", 
+            "Country Name": "Hungary", 
+            "Female": "52.40127801", 
+            "Population": "9844686"
+        }, 
+        {
+            "0-14": "20.31964787", 
+            "65+": "13.71389542", 
+            "Country Code": "ISL", 
+            "15-64": "65.9664567", 
+            "Country Name": "Iceland", 
+            "Female": "49.90665554", 
+            "Population": "330823"
+        }, 
+        {
+            "0-14": "28.78812732", 
+            "65+": "5.616110171", 
+            "Country Code": "IND", 
+            "15-64": "65.5957625", 
+            "Country Name": "India", 
+            "Female": "48.1676416", 
+            "Population": "1311050527"
+        }, 
+        {
+            "0-14": "27.69238722", 
+            "65+": "5.173729081", 
+            "Country Code": "IDN", 
+            "15-64": "67.13388369", 
+            "Country Name": "Indonesia", 
+            "Female": "49.64825358", 
+            "Population": "257563815"
+        }, 
+        {
+            "0-14": "23.60947147", 
+            "65+": "5.061114707", 
+            "Country Code": "IRN", 
+            "15-64": "71.32941383", 
+            "Country Name": "Iran, Islamic Rep.", 
+            "Female": "49.64534372", 
+            "Population": "79109272"
+        }, 
+        {
+            "0-14": "40.98275847", 
+            "65+": "3.056236246", 
+            "Country Code": "IRQ", 
+            "15-64": "55.96100528", 
+            "Country Name": "Iraq", 
+            "Female": "49.3814978", 
+            "Population": "36423395"
+        }, 
+        {
+            "0-14": "21.78056144", 
+            "65+": "13.13950301", 
+            "Country Code": "IRL", 
+            "15-64": "65.07993554", 
+            "Country Name": "Ireland", 
+            "Female": "50.08820584", 
+            "Population": "4640703"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "IMY", 
+            "15-64": "..", 
+            "Country Name": "Isle of Man", 
+            "Female": "..", 
+            "Population": "87780"
+        }, 
+        {
+            "0-14": "27.83345709", 
+            "65+": "11.23901233", 
+            "Country Code": "ISR", 
+            "15-64": "60.92753058", 
+            "Country Name": "Israel", 
+            "Female": "50.41412266", 
+            "Population": "8380400"
+        }, 
+        {
+            "0-14": "13.71038193", 
+            "65+": "22.4098759", 
+            "Country Code": "ITA", 
+            "15-64": "63.87974217", 
+            "Country Name": "Italy", 
+            "Female": "51.38656287", 
+            "Population": "60802085"
+        }, 
+        {
+            "0-14": "23.57833915", 
+            "65+": "9.138896695", 
+            "Country Code": "JAM", 
+            "15-64": "67.28276415", 
+            "Country Name": "Jamaica", 
+            "Female": "50.20149749", 
+            "Population": "2725941"
+        }, 
+        {
+            "0-14": "12.85549617", 
+            "65+": "26.34201314", 
+            "Country Code": "JPN", 
+            "15-64": "60.80249069", 
+            "Country Name": "Japan", 
+            "Female": "51.36534327", 
+            "Population": "126958472"
+        }, 
+        {
+            "0-14": "35.5254237", 
+            "65+": "3.785900594", 
+            "Country Code": "JOR", 
+            "15-64": "60.6886757", 
+            "Country Name": "Jordan", 
+            "Female": "48.79202143", 
+            "Population": "7594547"
+        }, 
+        {
+            "0-14": "26.71739925", 
+            "65+": "6.735737743", 
+            "Country Code": "KAZ", 
+            "15-64": "66.546863", 
+            "Country Name": "Kazakhstan", 
+            "Female": "51.70524906", 
+            "Population": "17544126"
+        }, 
+        {
+            "0-14": "41.90906283", 
+            "65+": "2.802444162", 
+            "Country Code": "KEN", 
+            "15-64": "55.288493", 
+            "Country Name": "Kenya", 
+            "Female": "50.01783702", 
+            "Population": "46050302"
+        }, 
+        {
+            "0-14": "34.94658566", 
+            "65+": "3.703868426", 
+            "Country Code": "KIR", 
+            "15-64": "61.34954591", 
+            "Country Name": "Kiribati", 
+            "Female": "50.70047944", 
+            "Population": "112423"
+        }, 
+        {
+            "0-14": "21.16742556", 
+            "65+": "9.539438521", 
+            "Country Code": "PRK", 
+            "15-64": "69.29313592", 
+            "Country Name": "Korea, Dem. People\u2019s Rep.", 
+            "Female": "51.10470681", 
+            "Population": "25155317"
+        }, 
+        {
+            "0-14": "13.99269992", 
+            "65+": "13.126919", 
+            "Country Code": "KOR", 
+            "15-64": "72.88038108", 
+            "Country Name": "Korea, Rep.", 
+            "Female": "50.3016129", 
+            "Population": "50617045"
+        }, 
+        {
+            "0-14": "25.73770492", 
+            "65+": "6.775956284", 
+            "Country Code": "KSV", 
+            "15-64": "67.59562842", 
+            "Country Name": "Kosovo", 
+            "Female": "48.46994536", 
+            "Population": "1797151"
+        }, 
+        {
+            "0-14": "22.32410913", 
+            "65+": "1.970111366", 
+            "Country Code": "KWT", 
+            "15-64": "75.70577951", 
+            "Country Name": "Kuwait", 
+            "Female": "43.82396204", 
+            "Population": "3892115"
+        }, 
+        {
+            "0-14": "31.4016487", 
+            "65+": "4.226845222", 
+            "Country Code": "KGZ", 
+            "15-64": "64.37150608", 
+            "Country Name": "Kyrgyz Republic", 
+            "Female": "50.50175405", 
+            "Population": "5957000"
+        }, 
+        {
+            "0-14": "34.76961192", 
+            "65+": "3.810586939", 
+            "Country Code": "LAO", 
+            "15-64": "61.41980114", 
+            "Country Name": "Lao PDR", 
+            "Female": "50.23057111", 
+            "Population": "6802023"
+        }, 
+        {
+            "0-14": "14.92212902", 
+            "65+": "19.36779594", 
+            "Country Code": "LVA", 
+            "15-64": "65.71007504", 
+            "Country Name": "Latvia", 
+            "Female": "54.12389628", 
+            "Population": "1978440"
+        }, 
+        {
+            "0-14": "23.99303815", 
+            "65+": "8.135667555", 
+            "Country Code": "LBN", 
+            "15-64": "67.8712943", 
+            "Country Name": "Lebanon", 
+            "Female": "49.77511403", 
+            "Population": "5850743"
+        }, 
+        {
+            "0-14": "36.07264937", 
+            "65+": "4.142299236", 
+            "Country Code": "LSO", 
+            "15-64": "59.7850514", 
+            "Country Name": "Lesotho", 
+            "Female": "50.50285196", 
+            "Population": "2135022"
+        }, 
+        {
+            "0-14": "42.30572287", 
+            "65+": "3.011432599", 
+            "Country Code": "LBR", 
+            "15-64": "54.68284453", 
+            "Country Name": "Liberia", 
+            "Female": "49.59861777", 
+            "Population": "4503438"
+        }, 
+        {
+            "0-14": "29.83285015", 
+            "65+": "4.540683527", 
+            "Country Code": "LBY", 
+            "15-64": "65.62646633", 
+            "Country Name": "Libya", 
+            "Female": "49.72085414", 
+            "Population": "6278438"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "LIE", 
+            "15-64": "..", 
+            "Country Name": "Liechtenstein", 
+            "Female": "..", 
+            "Population": "37531"
+        }, 
+        {
+            "0-14": "14.5148789", 
+            "65+": "18.84779939", 
+            "Country Code": "LTU", 
+            "15-64": "66.63732171", 
+            "Country Name": "Lithuania", 
+            "Female": "53.95922395", 
+            "Population": "2910199"
+        }, 
+        {
+            "0-14": "16.43367248", 
+            "65+": "13.98141454", 
+            "Country Code": "LUX", 
+            "15-64": "69.58491298", 
+            "Country Name": "Luxembourg", 
+            "Female": "49.81308741", 
+            "Population": "569676"
+        }, 
+        {
+            "0-14": "13.01143964", 
+            "65+": "8.99071827", 
+            "Country Code": "MAC", 
+            "15-64": "77.99784209", 
+            "Country Name": "Macao SAR, China", 
+            "Female": "51.8366048", 
+            "Population": "587606"
+        }, 
+        {
+            "0-14": "16.95308963", 
+            "65+": "12.32281894", 
+            "Country Code": "MKD", 
+            "15-64": "70.72409143", 
+            "Country Name": "Macedonia, FYR", 
+            "Female": "50.2201878", 
+            "Population": "2078453"
+        }, 
+        {
+            "0-14": "41.70933498", 
+            "65+": "2.837816928", 
+            "Country Code": "MDG", 
+            "15-64": "55.45284809", 
+            "Country Name": "Madagascar", 
+            "Female": "50.14538243", 
+            "Population": "24235390"
+        }, 
+        {
+            "0-14": "45.15698075", 
+            "65+": "3.441394226", 
+            "Country Code": "MWI", 
+            "15-64": "51.40162503", 
+            "Country Name": "Malawi", 
+            "Female": "50.08454722", 
+            "Population": "17215232"
+        }, 
+        {
+            "0-14": "25.01798637", 
+            "65+": "5.890817113", 
+            "Country Code": "MYS", 
+            "15-64": "69.09055127", 
+            "Country Name": "Malaysia", 
+            "Female": "48.39832622", 
+            "Population": "30331007"
+        }, 
+        {
+            "0-14": "27.47864059", 
+            "65+": "4.701133211", 
+            "Country Code": "MDV", 
+            "15-64": "67.8202262", 
+            "Country Name": "Maldives", 
+            "Female": "49.8519209", 
+            "Population": "409163"
+        }, 
+        {
+            "0-14": "47.52618426", 
+            "65+": "2.519657444", 
+            "Country Code": "MLI", 
+            "15-64": "49.95415829", 
+            "Country Name": "Mali", 
+            "Female": "49.51792912", 
+            "Population": "17599694"
+        }, 
+        {
+            "0-14": "14.43213032", 
+            "65+": "19.24809516", 
+            "Country Code": "MLT", 
+            "15-64": "66.31977452", 
+            "Country Name": "Malta", 
+            "Female": "50.20039649", 
+            "Population": "431333"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "MHL", 
+            "15-64": "..", 
+            "Country Name": "Marshall Islands", 
+            "Female": "..", 
+            "Population": "52993"
+        }, 
+        {
+            "0-14": "40.01640785", 
+            "65+": "3.209955639", 
+            "Country Code": "MRT", 
+            "15-64": "56.77363651", 
+            "Country Name": "Mauritania", 
+            "Female": "49.68042298", 
+            "Population": "4067564"
+        }, 
+        {
+            "0-14": "19.3221553", 
+            "65+": "9.563057841", 
+            "Country Code": "MUS", 
+            "15-64": "71.11478685", 
+            "Country Name": "Mauritius", 
+            "Female": "50.60987487", 
+            "Population": "1262605"
+        }, 
+        {
+            "0-14": "27.60543641", 
+            "65+": "6.466989075", 
+            "Country Code": "MEX", 
+            "15-64": "65.92757452", 
+            "Country Name": "Mexico", 
+            "Female": "50.2575753", 
+            "Population": "127017224"
+        }, 
+        {
+            "0-14": "34.06854298", 
+            "65+": "4.356691557", 
+            "Country Code": "FSM", 
+            "15-64": "61.57476546", 
+            "Country Name": "Micronesia, Fed. Sts.", 
+            "Female": "48.77465058", 
+            "Population": "104460"
+        }, 
+        {
+            "0-14": "15.73340392", 
+            "65+": "9.957932088", 
+            "Country Code": "MDA", 
+            "15-64": "74.30866399", 
+            "Country Name": "Moldova", 
+            "Female": "51.93146939", 
+            "Population": "3554150"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "MCO", 
+            "15-64": "..", 
+            "Country Name": "Monaco", 
+            "Female": "..", 
+            "Population": "37731"
+        }, 
+        {
+            "0-14": "28.22788694", 
+            "65+": "4.043818225", 
+            "Country Code": "MNG", 
+            "15-64": "67.72829483", 
+            "Country Name": "Mongolia", 
+            "Female": "50.50041668", 
+            "Population": "2959134"
+        }, 
+        {
+            "0-14": "18.6549288", 
+            "65+": "13.64502917", 
+            "Country Code": "MNE", 
+            "15-64": "67.70004203", 
+            "Country Name": "Montenegro", 
+            "Female": "50.58798525", 
+            "Population": "622388"
+        }, 
+        {
+            "0-14": "27.22206096", 
+            "65+": "6.168238882", 
+            "Country Code": "MAR", 
+            "15-64": "66.60970016", 
+            "Country Name": "Morocco", 
+            "Female": "50.58029652", 
+            "Population": "34377511"
+        }, 
+        {
+            "0-14": "45.30351728", 
+            "65+": "3.348690356", 
+            "Country Code": "MOZ", 
+            "15-64": "51.34779236", 
+            "Country Name": "Mozambique", 
+            "Female": "51.15352448", 
+            "Population": "27977863"
+        }, 
+        {
+            "0-14": "27.55060128", 
+            "65+": "5.359672609", 
+            "Country Code": "MMR", 
+            "15-64": "67.08972611", 
+            "Country Name": "Myanmar", 
+            "Female": "51.13845158", 
+            "Population": "53897154"
+        }, 
+        {
+            "0-14": "36.69013311", 
+            "65+": "3.525131872", 
+            "Country Code": "NAM", 
+            "15-64": "59.78473502", 
+            "Country Name": "Namibia", 
+            "Female": "51.32693191", 
+            "Population": "2458830"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "NRU", 
+            "15-64": "..", 
+            "Country Name": "Nauru", 
+            "Female": "..", 
+            "Population": "10222"
+        }, 
+        {
+            "0-14": "32.66410883", 
+            "65+": "5.547133483", 
+            "Country Code": "NPL", 
+            "15-64": "61.78875768", 
+            "Country Name": "Nepal", 
+            "Female": "51.54444355", 
+            "Population": "28513700"
+        }, 
+        {
+            "0-14": "16.52327168", 
+            "65+": "18.23046939", 
+            "Country Code": "NLD", 
+            "15-64": "65.24625894", 
+            "Country Name": "Netherlands", 
+            "Female": "50.36536933", 
+            "Population": "16936520"
+        }, 
+        {
+            "0-14": "22.2269096", 
+            "65+": "10.16920165", 
+            "Country Code": "NCL", 
+            "15-64": "67.60388875", 
+            "Country Name": "New Caledonia", 
+            "Female": "49.55685282", 
+            "Population": "273000"
+        }, 
+        {
+            "0-14": "20.20690618", 
+            "65+": "14.8615024", 
+            "Country Code": "NZL", 
+            "15-64": "64.93159143", 
+            "Country Name": "New Zealand", 
+            "Female": "51.12928578", 
+            "Population": "4595700"
+        }, 
+        {
+            "0-14": "30.03428788", 
+            "65+": "5.085356341", 
+            "Country Code": "NIC", 
+            "15-64": "64.88035578", 
+            "Country Name": "Nicaragua", 
+            "Female": "50.70770756", 
+            "Population": "6082032"
+        }, 
+        {
+            "0-14": "50.46557838", 
+            "65+": "2.580068867", 
+            "Country Code": "NER", 
+            "15-64": "46.95435276", 
+            "Country Name": "Niger", 
+            "Female": "49.60000744", 
+            "Population": "19899120"
+        }, 
+        {
+            "0-14": "43.98916681", 
+            "65+": "2.736719707", 
+            "Country Code": "NGA", 
+            "15-64": "53.27411348", 
+            "Country Name": "Nigeria", 
+            "Female": "49.07357254", 
+            "Population": "182201962"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "MNP", 
+            "15-64": "..", 
+            "Country Name": "Northern Mariana Islands", 
+            "Female": "..", 
+            "Population": "55070"
+        }, 
+        {
+            "0-14": "17.96854595", 
+            "65+": "16.33291863", 
+            "Country Code": "NOR", 
+            "15-64": "65.69853542", 
+            "Country Name": "Norway", 
+            "Female": "49.62923388", 
+            "Population": "5195921"
+        }, 
+        {
+            "0-14": "20.52080139", 
+            "65+": "2.581047584", 
+            "Country Code": "OMN", 
+            "15-64": "76.89815102", 
+            "Country Name": "Oman", 
+            "Female": "33.66886083", 
+            "Population": "4490541"
+        }, 
+        {
+            "0-14": "35.00983783", 
+            "65+": "4.492380924", 
+            "Country Code": "PAK", 
+            "15-64": "60.49778125", 
+            "Country Name": "Pakistan", 
+            "Female": "48.62915563", 
+            "Population": "188924874"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "PLW", 
+            "15-64": "..", 
+            "Country Name": "Palau", 
+            "Female": "..", 
+            "Population": "21291"
+        }, 
+        {
+            "0-14": "27.16456345", 
+            "65+": "7.632278913", 
+            "Country Code": "PAN", 
+            "15-64": "65.20315764", 
+            "Country Name": "Panama", 
+            "Female": "49.8684318", 
+            "Population": "3929141"
+        }, 
+        {
+            "0-14": "37.14219417", 
+            "65+": "3.009690759", 
+            "Country Code": "PNG", 
+            "15-64": "59.84811507", 
+            "Country Name": "Papua New Guinea", 
+            "Female": "48.98773788", 
+            "Population": "7619321"
+        }, 
+        {
+            "0-14": "30.13382942", 
+            "65+": "6.020463847", 
+            "Country Code": "PRY", 
+            "15-64": "63.84570673", 
+            "Country Name": "Paraguay", 
+            "Female": "49.25344808", 
+            "Population": "6639123"
+        }, 
+        {
+            "0-14": "27.89561799", 
+            "65+": "6.825144287", 
+            "Country Code": "PER", 
+            "15-64": "65.27923773", 
+            "Country Name": "Peru", 
+            "Female": "50.04852969", 
+            "Population": "31376670"
+        }, 
+        {
+            "0-14": "31.94853554", 
+            "65+": "4.579645191", 
+            "Country Code": "PHL", 
+            "15-64": "63.47181927", 
+            "Country Name": "Philippines", 
+            "Female": "49.54035623", 
+            "Population": "100699395"
+        }, 
+        {
+            "0-14": "14.9462804", 
+            "65+": "15.53332383", 
+            "Country Code": "POL", 
+            "15-64": "69.52039576", 
+            "Country Name": "Poland", 
+            "Female": "51.63734946", 
+            "Population": "37999494"
+        }, 
+        {
+            "0-14": "14.05332063", 
+            "65+": "20.7914682", 
+            "Country Code": "PRT", 
+            "15-64": "65.15521117", 
+            "Country Name": "Portugal", 
+            "Female": "52.65089587", 
+            "Population": "10348648"
+        }, 
+        {
+            "0-14": "18.87662432", 
+            "65+": "14.46748757", 
+            "Country Code": "PRI", 
+            "15-64": "66.65588811", 
+            "Country Name": "Puerto Rico", 
+            "Female": "51.92876485", 
+            "Population": "3474182"
+        }, 
+        {
+            "0-14": "15.52156145", 
+            "65+": "1.183078303", 
+            "Country Code": "QAT", 
+            "15-64": "83.29536024", 
+            "Country Name": "Qatar", 
+            "Female": "27.36191791", 
+            "Population": "2235355"
+        }, 
+        {
+            "0-14": "15.52058179", 
+            "65+": "17.31399673", 
+            "Country Code": "ROM", 
+            "15-64": "67.16542148", 
+            "Country Name": "Romania", 
+            "Female": "51.56158034", 
+            "Population": "19832389"
+        }, 
+        {
+            "0-14": "16.75191851", 
+            "65+": "13.3658427", 
+            "Country Code": "RUS", 
+            "15-64": "69.88223879", 
+            "Country Name": "Russian Federation", 
+            "Female": "53.5442083", 
+            "Population": "144096812"
+        }, 
+        {
+            "0-14": "41.05201648", 
+            "65+": "2.789856315", 
+            "Country Code": "RWA", 
+            "15-64": "56.1581272", 
+            "Country Name": "Rwanda", 
+            "Female": "52.1126103", 
+            "Population": "11609666"
+        }, 
+        {
+            "0-14": "37.29066181", 
+            "65+": "5.23371354", 
+            "Country Code": "WSM", 
+            "15-64": "57.47562465", 
+            "Country Name": "Samoa", 
+            "Female": "48.43190428", 
+            "Population": "193228"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "SMR", 
+            "15-64": "..", 
+            "Country Name": "San Marino", 
+            "Female": "..", 
+            "Population": "31781"
+        }, 
+        {
+            "0-14": "42.62755853", 
+            "65+": "3.085466314", 
+            "Country Code": "STP", 
+            "15-64": "54.28697516", 
+            "Country Name": "Sao Tome and Principe", 
+            "Female": "50.21697558", 
+            "Population": "190344"
+        }, 
+        {
+            "0-14": "28.58201229", 
+            "65+": "2.862306126", 
+            "Country Code": "SAU", 
+            "15-64": "68.55568159", 
+            "Country Name": "Saudi Arabia", 
+            "Female": "43.45054015", 
+            "Population": "31540372"
+        }, 
+        {
+            "0-14": "43.76209617", 
+            "65+": "2.933524962", 
+            "Country Code": "SEN", 
+            "15-64": "53.30437887", 
+            "Country Name": "Senegal", 
+            "Female": "50.89863208", 
+            "Population": "15129273"
+        }, 
+        {
+            "0-14": "16.3003172", 
+            "65+": "17.08236663", 
+            "Country Code": "SRB", 
+            "15-64": "66.61731617", 
+            "Country Name": "Serbia", 
+            "Female": "51.19580611", 
+            "Population": "7098247"
+        }, 
+        {
+            "0-14": "23.44538773", 
+            "65+": "6.878751127", 
+            "Country Code": "SYC", 
+            "15-64": "69.67586114", 
+            "Country Name": "Seychelles", 
+            "Female": "49.34643572", 
+            "Population": "92900"
+        }, 
+        {
+            "0-14": "42.36293278", 
+            "65+": "2.669488426", 
+            "Country Code": "SLE", 
+            "15-64": "54.9675788", 
+            "Country Name": "Sierra Leone", 
+            "Female": "50.51684564", 
+            "Population": "6453184"
+        }, 
+        {
+            "0-14": "15.54295881", 
+            "65+": "11.68071681", 
+            "Country Code": "SGP", 
+            "15-64": "72.77632438", 
+            "Country Name": "Singapore", 
+            "Female": "50.65732886", 
+            "Population": "5535002"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "SXM", 
+            "15-64": "..", 
+            "Country Name": "Sint Maarten (Dutch part)", 
+            "Female": "..", 
+            "Population": "38817"
+        }, 
+        {
+            "0-14": "15.12364506", 
+            "65+": "13.84506597", 
+            "Country Code": "SVK", 
+            "15-64": "71.03128897", 
+            "Country Name": "Slovak Republic", 
+            "Female": "51.52948865", 
+            "Population": "5424050"
+        }, 
+        {
+            "0-14": "14.78443318", 
+            "65+": "17.96838347", 
+            "Country Code": "SVN", 
+            "15-64": "67.24718335", 
+            "Country Name": "Slovenia", 
+            "Female": "50.43215902", 
+            "Population": "2063768"
+        }, 
+        {
+            "0-14": "39.48912852", 
+            "65+": "3.395014659", 
+            "Country Code": "SLB", 
+            "15-64": "57.11585682", 
+            "Country Name": "Solomon Islands", 
+            "Female": "49.22419982", 
+            "Population": "583591"
+        }, 
+        {
+            "0-14": "46.7050656", 
+            "65+": "2.824038778", 
+            "Country Code": "SOM", 
+            "15-64": "50.47089562", 
+            "Country Name": "Somalia", 
+            "Female": "50.23745947", 
+            "Population": "10787104"
+        }, 
+        {
+            "0-14": "29.23922975", 
+            "65+": "5.033361286", 
+            "Country Code": "ZAF", 
+            "15-64": "65.72740897", 
+            "Country Name": "South Africa", 
+            "Female": "50.82206581", 
+            "Population": "54956920"
+        }, 
+        {
+            "0-14": "42.08594102", 
+            "65+": "3.464461209", 
+            "Country Code": "SSD", 
+            "15-64": "54.44959777", 
+            "Country Name": "South Sudan", 
+            "Female": "49.92442348", 
+            "Population": "12339812"
+        }, 
+        {
+            "0-14": "14.88167858", 
+            "65+": "18.7894661", 
+            "Country Code": "ESP", 
+            "15-64": "66.32885532", 
+            "Country Name": "Spain", 
+            "Female": "50.94803207", 
+            "Population": "46418269"
+        }, 
+        {
+            "0-14": "24.57383318", 
+            "65+": "9.30324919", 
+            "Country Code": "LKA", 
+            "15-64": "66.12291763", 
+            "Country Name": "Sri Lanka", 
+            "Female": "51.82592719", 
+            "Population": "20966000"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "KNA", 
+            "15-64": "..", 
+            "Country Name": "St. Kitts and Nevis", 
+            "Female": "..", 
+            "Population": "55572"
+        }, 
+        {
+            "0-14": "23.12553041", 
+            "65+": "8.997345932", 
+            "Country Code": "LCA", 
+            "15-64": "67.87712366", 
+            "Country Name": "St. Lucia", 
+            "Female": "50.9408159", 
+            "Population": "184999"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "MAF", 
+            "15-64": "..", 
+            "Country Name": "St. Martin (French part)", 
+            "Female": "..", 
+            "Population": "31754"
+        }, 
+        {
+            "0-14": "24.52906031", 
+            "65+": "7.332224882", 
+            "Country Code": "VCT", 
+            "15-64": "68.13871481", 
+            "Country Name": "St. Vincent and the Grenadines", 
+            "Female": "49.54230692", 
+            "Population": "109462"
+        }, 
+        {
+            "0-14": "40.50326282", 
+            "65+": "3.328045053", 
+            "Country Code": "SDN", 
+            "15-64": "56.16869213", 
+            "Country Name": "Sudan", 
+            "Female": "49.8022164", 
+            "Population": "40234882"
+        }, 
+        {
+            "0-14": "26.78189604", 
+            "65+": "6.885768221", 
+            "Country Code": "SUR", 
+            "15-64": "66.33233574", 
+            "Country Name": "Suriname", 
+            "Female": "49.89861412", 
+            "Population": "542975"
+        }, 
+        {
+            "0-14": "37.35495", 
+            "65+": "3.582834099", 
+            "Country Code": "SWZ", 
+            "15-64": "59.0622159", 
+            "Country Name": "Swaziland", 
+            "Female": "50.5472544", 
+            "Population": "1286970"
+        }, 
+        {
+            "0-14": "17.2848795", 
+            "65+": "19.94201909", 
+            "Country Code": "SWE", 
+            "15-64": "62.77310141", 
+            "Country Name": "Sweden", 
+            "Female": "50.02961319", 
+            "Population": "9798871"
+        }, 
+        {
+            "0-14": "14.77535598", 
+            "65+": "18.04184602", 
+            "Country Code": "CHE", 
+            "15-64": "67.182798", 
+            "Country Name": "Switzerland", 
+            "Female": "50.48160167", 
+            "Population": "8286976"
+        }, 
+        {
+            "0-14": "37.12271475", 
+            "65+": "4.064296911", 
+            "Country Code": "SYR", 
+            "15-64": "58.81298834", 
+            "Country Name": "Syrian Arab Republic", 
+            "Female": "49.37682453", 
+            "Population": "18502413"
+        }, 
+        {
+            "0-14": "34.83754438", 
+            "65+": "3.006288129", 
+            "Country Code": "TJK", 
+            "15-64": "62.15616749", 
+            "Country Name": "Tajikistan", 
+            "Female": "49.35257677", 
+            "Population": "8481855"
+        }, 
+        {
+            "0-14": "45.19869303", 
+            "65+": "3.20196849", 
+            "Country Code": "TZA", 
+            "15-64": "51.59933848", 
+            "Country Name": "Tanzania", 
+            "Female": "50.30106178", 
+            "Population": "53470420"
+        }, 
+        {
+            "0-14": "17.71077182", 
+            "65+": "10.4718704", 
+            "Country Code": "THA", 
+            "15-64": "71.81735778", 
+            "Country Name": "Thailand", 
+            "Female": "50.7135007", 
+            "Population": "67959359"
+        }, 
+        {
+            "0-14": "42.41102666", 
+            "65+": "5.580093943", 
+            "Country Code": "TMP", 
+            "15-64": "52.0088794", 
+            "Country Name": "Timor-Leste", 
+            "Female": "49.22427654", 
+            "Population": "1245015"
+        }, 
+        {
+            "0-14": "42.2391273", 
+            "65+": "2.764772996", 
+            "Country Code": "TGO", 
+            "15-64": "54.99609971", 
+            "Country Name": "Togo", 
+            "Female": "50.59132779", 
+            "Population": "7304578"
+        }, 
+        {
+            "0-14": "36.76368089", 
+            "65+": "5.873598945", 
+            "Country Code": "TON", 
+            "15-64": "57.36272017", 
+            "Country Name": "Tonga", 
+            "Female": "49.85494961", 
+            "Population": "106170"
+        }, 
+        {
+            "0-14": "20.77990542", 
+            "65+": "9.411817471", 
+            "Country Code": "TTO", 
+            "15-64": "69.80827711", 
+            "Country Name": "Trinidad and Tobago", 
+            "Female": "50.65870738", 
+            "Population": "1360088"
+        }, 
+        {
+            "0-14": "23.3567369", 
+            "65+": "7.592090463", 
+            "Country Code": "TUN", 
+            "15-64": "69.05117263", 
+            "Country Name": "Tunisia", 
+            "Female": "50.58374448", 
+            "Population": "11107800"
+        }, 
+        {
+            "0-14": "25.67050777", 
+            "65+": "7.538697551", 
+            "Country Code": "TUR", 
+            "15-64": "66.79079468", 
+            "Country Name": "Turkey", 
+            "Female": "50.83689831", 
+            "Population": "78665830"
+        }, 
+        {
+            "0-14": "28.2240148", 
+            "65+": "4.155074289", 
+            "Country Code": "TKM", 
+            "15-64": "67.62091091", 
+            "Country Name": "Turkmenistan", 
+            "Female": "50.85688998", 
+            "Population": "5373502"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "TCA", 
+            "15-64": "..", 
+            "Country Name": "Turks and Caicos Islands", 
+            "Female": "..", 
+            "Population": "34339"
+        }, 
+        {
+            "0-14": "..", 
+            "65+": "..", 
+            "Country Code": "TUV", 
+            "15-64": "..", 
+            "Country Name": "Tuvalu", 
+            "Female": "..", 
+            "Population": "9916"
+        }, 
+        {
+            "0-14": "48.0906559", 
+            "65+": "2.488889802", 
+            "Country Code": "UGA", 
+            "15-64": "49.42045429", 
+            "Country Name": "Uganda", 
+            "Female": "50.02309236", 
+            "Population": "39032383"
+        }, 
+        {
+            "0-14": "14.92761708", 
+            "65+": "15.30619081", 
+            "Country Code": "UKR", 
+            "15-64": "69.76619211", 
+            "Country Name": "Ukraine", 
+            "Female": "53.6866303", 
+            "Population": "45198200"
+        }, 
+        {
+            "0-14": "13.93747032", 
+            "65+": "1.137877263", 
+            "Country Code": "ARE", 
+            "15-64": "84.92465242", 
+            "Country Name": "United Arab Emirates", 
+            "Female": "26.74147531", 
+            "Population": "9156963"
+        }, 
+        {
+            "0-14": "17.77422086", 
+            "65+": "17.76036953", 
+            "Country Code": "GBR", 
+            "15-64": "64.46540961", 
+            "Country Name": "United Kingdom", 
+            "Female": "50.70973538", 
+            "Population": "65138232"
+        }, 
+        {
+            "0-14": "18.95034556", 
+            "65+": "14.78606928", 
+            "Country Code": "USA", 
+            "15-64": "66.26358516", 
+            "Country Name": "United States", 
+            "Female": "50.43292656", 
+            "Population": "321418820"
+        }, 
+        {
+            "0-14": "21.41498533", 
+            "65+": "14.43450564", 
+            "Country Code": "URY", 
+            "15-64": "64.15050903", 
+            "Country Name": "Uruguay", 
+            "Female": "51.73036714", 
+            "Population": "3431555"
+        }, 
+        {
+            "0-14": "28.51991711", 
+            "65+": "4.657736829", 
+            "Country Code": "UZB", 
+            "15-64": "66.82234606", 
+            "Country Name": "Uzbekistan", 
+            "Female": "50.82725709", 
+            "Population": "31299500"
+        }, 
+        {
+            "0-14": "36.53099164", 
+            "65+": "4.199099194", 
+            "Country Code": "VUT", 
+            "15-64": "59.26990916", 
+            "Country Name": "Vanuatu", 
+            "Female": "49.34668924", 
+            "Population": "264652"
+        }, 
+        {
+            "0-14": "28.10541235", 
+            "65+": "6.26699498", 
+            "Country Code": "VEN", 
+            "15-64": "65.62759267", 
+            "Country Name": "Venezuela, RB", 
+            "Female": "50.21486538", 
+            "Population": "31108083"
+        }, 
+        {
+            "0-14": "23.08968745", 
+            "65+": "6.740506907", 
+            "Country Code": "VNM", 
+            "15-64": "70.16980564", 
+            "Country Name": "Vietnam", 
+            "Female": "50.53434384", 
+            "Population": "91703800"
+        }, 
+        {
+            "0-14": "20.36108419", 
+            "65+": "17.60356004", 
+            "Country Code": "VIR", 
+            "15-64": "62.03535577", 
+            "Country Name": "Virgin Islands (U.S.)", 
+            "Female": "52.36285292", 
+            "Population": "103574"
+        }, 
+        {
+            "0-14": "40.22265558", 
+            "65+": "2.959773082", 
+            "Country Code": "WBG", 
+            "15-64": "56.81757134", 
+            "Country Name": "West Bank and Gaza", 
+            "Female": "49.3034757", 
+            "Population": "4422143"
+        }, 
+        {
+            "0-14": "40.2638023", 
+            "65+": "2.787015533", 
+            "Country Code": "YEM", 
+            "15-64": "56.94918217", 
+            "Country Name": "Yemen, Rep.", 
+            "Female": "49.48876938", 
+            "Population": "26832215"
+        }, 
+        {
+            "0-14": "45.91490243", 
+            "65+": "2.908634204", 
+            "Country Code": "ZMB", 
+            "15-64": "51.17646337", 
+            "Country Name": "Zambia", 
+            "Female": "50.07547913", 
+            "Population": "16211767"
+        }, 
+        {
+            "0-14": "41.60034343", 
+            "65+": "2.964528499", 
+            "Country Code": "ZWE", 
+            "15-64": "55.43512807", 
+            "Country Name": "Zimbabwe", 
+            "Female": "50.72947713", 
+            "Population": "15602751"
+        }
+    ]
+}
