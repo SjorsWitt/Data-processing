@@ -4,11 +4,11 @@
 window.onload = function() {
 
     var id = null, // Code of selected country
-        type = "Age", // Selected type of data
+        category = "Age", // Selected category of data
         dataset = {};
 
-    var pieChart_width = 300,
-        pieChart_height = 300,
+    var pieChart_width = 280,
+        pieChart_height = 280,
         radius = Math.min(pieChart_width, pieChart_height) / 2 - 10;
 
     var arc = d3.svg.arc()
@@ -22,6 +22,13 @@ window.onload = function() {
     var pie = d3.layout.pie()
         .padAngle(0.04)
         .sort(null);
+
+    var dropDown = d3.select("#drop-down")
+            .on("change", function() {
+                category = dropDown.node().value; // Update data category
+                d3.selectAll("#subtitle").text("Click any country to view the " + dropDown.node().value.toLowerCase() + " distribution."); // Change subtitle
+                createPieChart(); // Update pie chart
+            });
 
 
     d3.json("data.json", function(rawdata) {
@@ -120,9 +127,11 @@ window.onload = function() {
             // Create pie chart on country click
             done: function(datamap) {
                 datamap.svg.selectAll('.datamaps-subunit').on('click', function(geo) {
-                    id = geo.id
                     // If data is available for selected country
-                    if (dataset[id] != null && dataset[id].low_age != "..") {
+                    if (dataset[geo.id] == null || dataset[geo.id].low_age == "..") {
+                        alert("No " + category.toLowerCase() + " distribution data available for this country");
+                    } else {
+                        id = geo.id // Update selected country
                         createPieChart();
                     };
                 });
@@ -147,8 +156,8 @@ window.onload = function() {
         var container = d3.select("body").append("div")
             .attr("class", "pieChart_container")
 
-        container.append("h2")
-                .text(type + " distribution in " + dataset[id].name);
+        container.append("h3")
+                .text(category + " distribution in " + dataset[id].name);
 
         var svg = container.append("svg")
             .attr("width", pieChart_width)
@@ -159,13 +168,14 @@ window.onload = function() {
           .append("g")
             .attr("transform", "translate(" + pieChart_width / 2 + "," + pieChart_height / 2 + ")");
 
-        if (type == "Age") {
+        // Use different data depending on chosen category
+        if (category == "Age") {
             temp_dataset = [
                 { label: "0-14", value: dataset[id].low_age, color: "#84b761" },
                 { label: "15-64", value: dataset[id].middle_age, color: "#67b7dc" },
                 { label: "65+", value: dataset[id].high_age, color: "#d45859" }
             ];
-        } else if (type == "Gender") {
+        } else if (category == "Gender") {
             temp_dataset = [
                 { label: "Male", value: dataset[id].male, color: "dodgerblue" },
                 { label: "Female", value: dataset[id].female, color: "pink" }
@@ -205,12 +215,4 @@ window.onload = function() {
             .text(function(d) { return d.data.label; })
             .style("fill", "black");
     };
-
-    var dropDown = d3.select("#drop-down")
-                .on("change", function() {
-                    type = dropDown.node().value; // Update datatype
-                    if (id != null) {
-                        createPieChart(); // Update pie chart
-                    }
-                });
 }
